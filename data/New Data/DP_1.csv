@@ -1,0 +1,3529 @@
+State;Year;Month Code;Avg Daily Precipitation (mm)
+Alabama;2003;1;1.16698
+Alabama;2003;2;5.70315
+Alabama;2003;3;3.66795
+Alabama;2003;4;5.21881
+Alabama;2003;5;6.74547
+Alabama;2003;6;7.10539
+Alabama;2003;7;5.56659
+Alabama;2003;8;4.32901
+Alabama;2003;9;2.65341
+Alabama;2003;10;1.25216
+Alabama;2003;11;3.67705
+Alabama;2003;12;2.55502
+Alabama;2004;1;2.45454
+Alabama;2004;2;5.78517
+Alabama;2004;3;1.65036
+Alabama;2004;4;2.53596
+Alabama;2004;5;3.18016
+Alabama;2004;6;6.17625
+Alabama;2004;7;3.23957
+Alabama;2004;8;3.33659
+Alabama;2004;9;5.21422
+Alabama;2004;10;2.99173
+Alabama;2004;11;6.92482
+Alabama;2004;12;3.44235
+Alabama;2005;1;2.30879
+Alabama;2005;2;4.22714
+Alabama;2005;3;5.09947
+Alabama;2005;4;5.83933
+Alabama;2005;5;2.44817
+Alabama;2005;6;4.53180
+Alabama;2005;7;7.28586
+Alabama;2005;8;4.82348
+Alabama;2005;9;2.48822
+Alabama;2005;10;0.51952
+Alabama;2005;11;2.95476
+Alabama;2005;12;3.05558
+Alabama;2006;1;4.10958
+Alabama;2006;2;4.30562
+Alabama;2006;3;2.41753
+Alabama;2006;4;2.75047
+Alabama;2006;5;3.36524
+Alabama;2006;6;1.91039
+Alabama;2006;7;2.82885
+Alabama;2006;8;3.04125
+Alabama;2006;9;2.91785
+Alabama;2006;10;4.04685
+Alabama;2006;11;3.93062
+Alabama;2006;12;3.48248
+Alabama;2007;1;2.96287
+Alabama;2007;2;2.25618
+Alabama;2007;3;1.31485
+Alabama;2007;4;3.14051
+Alabama;2007;5;0.64764
+Alabama;2007;6;2.48693
+Alabama;2007;7;4.34281
+Alabama;2007;8;2.45831
+Alabama;2007;9;2.52060
+Alabama;2007;10;3.03458
+Alabama;2007;11;2.24520
+Alabama;2007;12;1.71800
+Alabama;2008;1;3.99212
+Alabama;2008;2;4.20622
+Alabama;2008;3;3.24783
+Alabama;2008;4;3.70935
+Alabama;2008;5;3.81103
+Alabama;2008;6;2.58697
+Alabama;2008;7;4.52331
+Alabama;2008;8;6.11210
+Alabama;2008;9;1.92355
+Alabama;2008;10;2.94229
+Alabama;2008;11;3.35807
+Alabama;2008;12;5.79243
+Arizona;2003;1;0.21231
+Arizona;2003;2;2.08946
+Arizona;2003;3;0.82077
+Arizona;2003;4;0.24617
+Arizona;2003;5;0.08357
+Arizona;2003;6;0.03777
+Arizona;2003;7;0.98991
+Arizona;2003;8;1.69952
+Arizona;2003;9;0.82506
+Arizona;2003;10;0.34194
+Arizona;2003;11;0.87348
+Arizona;2003;12;0.40939
+Arizona;2004;1;0.48496
+Arizona;2004;2;0.88342
+Arizona;2004;3;0.55910
+Arizona;2004;4;1.10522
+Arizona;2004;5;0.00446
+Arizona;2004;6;0.07928
+Arizona;2004;7;1.02657
+Arizona;2004;8;1.19620
+Arizona;2004;9;1.32674
+Arizona;2004;10;1.77824
+Arizona;2004;11;1.59030
+Arizona;2004;12;1.31936
+Arizona;2005;1;2.28358
+Arizona;2005;2;3.04968
+Arizona;2005;3;0.66226
+Arizona;2005;4;0.65797
+Arizona;2005;5;0.18160
+Arizona;2005;6;0.20299
+Arizona;2005;7;1.03744
+Arizona;2005;8;2.26401
+Arizona;2005;9;0.40639
+Arizona;2005;10;0.74805
+Arizona;2005;11;0.05780
+Arizona;2005;12;0.02815
+Arizona;2006;1;0.10418
+Arizona;2006;2;0.05750
+Arizona;2006;3;0.96913
+Arizona;2006;4;0.22080
+Arizona;2006;5;0.05055
+Arizona;2006;6;0.45995
+Arizona;2006;7;2.34326
+Arizona;2006;8;1.92268
+Arizona;2006;9;1.18454
+Arizona;2006;10;1.14173
+Arizona;2006;11;0.04184
+Arizona;2006;12;0.24476
+Arizona;2007;1;0.58632
+Arizona;2007;2;0.39852
+Arizona;2007;3;0.65867
+Arizona;2007;4;0.24546
+Arizona;2007;5;0.27070
+Arizona;2007;6;0.10492
+Arizona;2007;7;2.45042
+Arizona;2007;8;1.65233
+Arizona;2007;9;0.78349
+Arizona;2007;10;0.13216
+Arizona;2007;11;0.04869
+Arizona;2007;12;2.78953
+Arizona;2008;1;1.76550
+Arizona;2008;2;1.00429
+Arizona;2008;3;0.05594
+Arizona;2008;4;0.02012
+Arizona;2008;5;0.57783
+Arizona;2008;6;0.14073
+Arizona;2008;7;2.06013
+Arizona;2008;8;1.99243
+Arizona;2008;9;0.47104
+Arizona;2008;10;0.21434
+Arizona;2008;11;0.81466
+Arizona;2008;12;1.57240
+Arkansas;2003;1;0.34221
+Arkansas;2003;2;5.28065
+Arkansas;2003;3;1.66053
+Arkansas;2003;4;2.17916
+Arkansas;2003;5;5.48858
+Arkansas;2003;6;5.06349
+Arkansas;2003;7;2.82292
+Arkansas;2003;8;2.64693
+Arkansas;2003;9;2.87962
+Arkansas;2003;10;1.89979
+Arkansas;2003;11;4.36368
+Arkansas;2003;12;2.49173
+Arkansas;2004;1;2.45495
+Arkansas;2004;2;3.75734
+Arkansas;2004;3;3.29746
+Arkansas;2004;4;5.25591
+Arkansas;2004;5;4.21707
+Arkansas;2004;6;5.59209
+Arkansas;2004;7;3.55670
+Arkansas;2004;8;2.16082
+Arkansas;2004;9;0.37084
+Arkansas;2004;10;6.79763
+Arkansas;2004;11;7.18951
+Arkansas;2004;12;2.22936
+Arkansas;2005;1;4.28423
+Arkansas;2005;2;2.54759
+Arkansas;2005;3;2.85207
+Arkansas;2005;4;3.41676
+Arkansas;2005;5;1.65770
+Arkansas;2005;6;1.85416
+Arkansas;2005;7;3.42798
+Arkansas;2005;8;2.45638
+Arkansas;2005;9;3.71526
+Arkansas;2005;10;0.77257
+Arkansas;2005;11;2.20587
+Arkansas;2005;12;0.59656
+Arkansas;2006;1;3.64503
+Arkansas;2006;2;2.12196
+Arkansas;2006;3;4.14886
+Arkansas;2006;4;3.95202
+Arkansas;2006;5;3.32202
+Arkansas;2006;6;2.21121
+Arkansas;2006;7;2.42624
+Arkansas;2006;8;3.15963
+Arkansas;2006;9;3.53523
+Arkansas;2006;10;3.69311
+Arkansas;2006;11;4.62493
+Arkansas;2006;12;4.09637
+Arkansas;2007;1;5.54155
+Arkansas;2007;2;2.08326
+Arkansas;2007;3;1.69867
+Arkansas;2007;4;3.10029
+Arkansas;2007;5;3.04775
+Arkansas;2007;6;3.29193
+Arkansas;2007;7;4.40473
+Arkansas;2007;8;0.74003
+Arkansas;2007;9;4.01223
+Arkansas;2007;10;4.15456
+Arkansas;2007;11;1.72764
+Arkansas;2007;12;4.31365
+Arkansas;2008;1;1.66239
+Arkansas;2008;2;3.59541
+Arkansas;2008;3;8.14274
+Arkansas;2008;4;6.18865
+Arkansas;2008;5;4.18117
+Arkansas;2008;6;3.63836
+Arkansas;2008;7;2.48232
+Arkansas;2008;8;5.52884
+Arkansas;2008;9;6.48712
+Arkansas;2008;10;2.93482
+Arkansas;2008;11;1.62503
+Arkansas;2008;12;3.55490
+California;2003;1;1.48093
+California;2003;2;2.27628
+California;2003;3;2.14789
+California;2003;4;3.26253
+California;2003;5;0.90741
+California;2003;6;0.05531
+California;2003;7;0.25708
+California;2003;8;0.53163
+California;2003;9;0.16518
+California;2003;10;0.10159
+California;2003;11;1.86992
+California;2003;12;4.80613
+California;2004;1;1.70202
+California;2004;2;4.96094
+California;2004;3;0.80538
+California;2004;4;0.65684
+California;2004;5;0.40677
+California;2004;6;0.11773
+California;2004;7;0.11411
+California;2004;8;0.17324
+California;2004;9;0.17225
+California;2004;10;3.06156
+California;2004;11;1.20891
+California;2004;12;4.46701
+California;2005;1;4.19026
+California;2005;2;3.34860
+California;2005;3;2.96863
+California;2005;4;1.39936
+California;2005;5;2.28148
+California;2005;6;0.72069
+California;2005;7;0.22624
+California;2005;8;0.33559
+California;2005;9;0.24294
+California;2005;10;0.78882
+California;2005;11;1.92217
+California;2005;12;6.84407
+California;2006;1;3.51465
+California;2006;2;2.48545
+California;2006;3;4.28648
+California;2006;4;3.34546
+California;2006;5;0.71409
+California;2006;6;0.18324
+California;2006;7;0.27513
+California;2006;8;0.13348
+California;2006;9;0.12387
+California;2006;10;0.38933
+California;2006;11;1.67833
+California;2006;12;2.60132
+California;2007;1;0.54866
+California;2007;2;3.91286
+California;2007;3;0.51310
+California;2007;4;1.02518
+California;2007;5;0.36509
+California;2007;6;0.14028
+California;2007;7;0.31180
+California;2007;8;0.24014
+California;2007;9;0.46339
+California;2007;10;1.22617
+California;2007;11;0.58166
+California;2007;12;2.77555
+California;2008;1;5.70137
+California;2008;2;2.32050
+California;2008;3;0.49591
+California;2008;4;0.26719
+California;2008;5;0.53974
+California;2008;6;0.02387
+California;2008;7;0.15096
+California;2008;8;0.11322
+California;2008;9;0.03763
+California;2008;10;0.64985
+California;2008;11;1.95459
+California;2008;12;2.48054
+Colorado;2003;1;0.35782
+Colorado;2003;2;1.46318
+Colorado;2003;3;1.85719
+Colorado;2003;4;1.53208
+Colorado;2003;5;1.51974
+Colorado;2003;6;1.91935
+Colorado;2003;7;1.04589
+Colorado;2003;8;1.76718
+Colorado;2003;9;1.31613
+Colorado;2003;10;0.37003
+Colorado;2003;11;1.21766
+Colorado;2003;12;0.77536
+Colorado;2004;1;0.84665
+Colorado;2004;2;1.14910
+Colorado;2004;3;0.47829
+Colorado;2004;4;2.98486
+Colorado;2004;5;0.66549
+Colorado;2004;6;2.01336
+Colorado;2004;7;2.01400
+Colorado;2004;8;1.69593
+Colorado;2004;9;1.97614
+Colorado;2004;10;1.26513
+Colorado;2004;11;1.43094
+Colorado;2004;12;0.69432
+Colorado;2005;1;1.61111
+Colorado;2005;2;1.01828
+Colorado;2005;3;1.18678
+Colorado;2005;4;1.72741
+Colorado;2005;5;1.28856
+Colorado;2005;6;2.17683
+Colorado;2005;7;1.05147
+Colorado;2005;8;1.95304
+Colorado;2005;9;1.22832
+Colorado;2005;10;1.94328
+Colorado;2005;11;0.77208
+Colorado;2005;12;0.84437
+Colorado;2006;1;0.78268
+Colorado;2006;2;0.43364
+Colorado;2006;3;1.27982
+Colorado;2006;4;0.83829
+Colorado;2006;5;0.92609
+Colorado;2006;6;0.77330
+Colorado;2006;7;2.71568
+Colorado;2006;8;2.40900
+Colorado;2006;9;1.84650
+Colorado;2006;10;2.29849
+Colorado;2006;11;0.65464
+Colorado;2006;12;1.33540
+Colorado;2007;1;0.82156
+Colorado;2007;2;0.83237
+Colorado;2007;3;0.93190
+Colorado;2007;4;1.83951
+Colorado;2007;5;1.77334
+Colorado;2007;6;1.02981
+Colorado;2007;7;1.88192
+Colorado;2007;8;2.22630
+Colorado;2007;9;1.50942
+Colorado;2007;10;0.82634
+Colorado;2007;11;0.18957
+Colorado;2007;12;2.33198
+Colorado;2008;1;1.10990
+Colorado;2008;2;1.01242
+Colorado;2008;3;0.72488
+Colorado;2008;4;0.95034
+Colorado;2008;5;1.31272
+Colorado;2008;6;0.97562
+Colorado;2008;7;1.24942
+Colorado;2008;8;2.80768
+Colorado;2008;9;0.89741
+Colorado;2008;10;1.04512
+Colorado;2008;11;0.71118
+Colorado;2008;12;1.20676
+Connecticut;2003;1;1.87224
+Connecticut;2003;2;3.22359
+Connecticut;2003;3;3.53055
+Connecticut;2003;4;2.69779
+Connecticut;2003;5;4.03621
+Connecticut;2003;6;5.73105
+Connecticut;2003;7;2.45386
+Connecticut;2003;8;4.12214
+Connecticut;2003;9;6.52498
+Connecticut;2003;10;4.63516
+Connecticut;2003;11;2.56034
+Connecticut;2003;12;4.47568
+Connecticut;2004;1;1.41435
+Connecticut;2004;2;2.09411
+Connecticut;2004;3;2.97840
+Connecticut;2004;4;5.52562
+Connecticut;2004;5;2.94897
+Connecticut;2004;6;1.76184
+Connecticut;2004;7;3.67604
+Connecticut;2004;8;4.56401
+Connecticut;2004;9;7.22655
+Connecticut;2004;10;1.73454
+Connecticut;2004;11;3.26910
+Connecticut;2004;12;3.54516
+Connecticut;2005;1;3.73469
+Connecticut;2005;2;2.26577
+Connecticut;2005;3;3.25890
+Connecticut;2005;4;4.80903
+Connecticut;2005;5;2.22523
+Connecticut;2005;6;2.11854
+Connecticut;2005;7;3.27289
+Connecticut;2005;8;1.71533
+Connecticut;2005;9;2.13682
+Connecticut;2005;10;13.33820
+Connecticut;2005;11;3.99363
+Connecticut;2005;12;3.52595
+Connecticut;2006;1;5.05491
+Connecticut;2006;2;2.49715
+Connecticut;2006;3;0.60141
+Connecticut;2006;4;4.30667
+Connecticut;2006;5;5.75498
+Connecticut;2006;6;7.80637
+Connecticut;2006;7;2.60344
+Connecticut;2006;8;4.59732
+Connecticut;2006;9;2.71959
+Connecticut;2006;10;5.71192
+Connecticut;2006;11;5.13371
+Connecticut;2006;12;1.78634
+Connecticut;2007;1;2.94299
+Connecticut;2007;2;1.80421
+Connecticut;2007;3;4.49398
+Connecticut;2007;4;7.38071
+Connecticut;2007;5;1.57590
+Connecticut;2007;6;2.97019
+Connecticut;2007;7;3.81972
+Connecticut;2007;8;1.86937
+Connecticut;2007;9;1.56378
+Connecticut;2007;10;3.23298
+Connecticut;2007;11;2.50266
+Connecticut;2007;12;3.08800
+Connecticut;2008;1;2.03284
+Connecticut;2008;2;7.39535
+Connecticut;2008;3;4.70584
+Connecticut;2008;4;3.13622
+Connecticut;2008;5;2.25114
+Connecticut;2008;6;3.71895
+Connecticut;2008;7;4.65277
+Connecticut;2008;8;3.37782
+Connecticut;2008;9;7.72498
+Connecticut;2008;10;2.34096
+Connecticut;2008;11;3.37588
+Connecticut;2008;12;5.80964
+Delaware;2003;1;1.37732
+Delaware;2003;2;6.00087
+Delaware;2003;3;3.30577
+Delaware;2003;4;2.98192
+Delaware;2003;5;4.73949
+Delaware;2003;6;5.40929
+Delaware;2003;7;3.48886
+Delaware;2003;8;4.72551
+Delaware;2003;9;5.95566
+Delaware;2003;10;3.39325
+Delaware;2003;11;4.10172
+Delaware;2003;12;4.80274
+Delaware;2004;1;1.83421
+Delaware;2004;2;1.50920
+Delaware;2004;3;2.04770
+Delaware;2004;4;4.58141
+Delaware;2004;5;2.68045
+Delaware;2004;6;2.93555
+Delaware;2004;7;4.99042
+Delaware;2004;8;5.28866
+Delaware;2004;9;3.70798
+Delaware;2004;10;1.31779
+Delaware;2004;11;4.14212
+Delaware;2004;12;2.33636
+Delaware;2005;1;3.29032
+Delaware;2005;2;2.12413
+Delaware;2005;3;3.24585
+Delaware;2005;4;3.22384
+Delaware;2005;5;3.63930
+Delaware;2005;6;3.28747
+Delaware;2005;7;3.73851
+Delaware;2005;8;2.04575
+Delaware;2005;9;0.40374
+Delaware;2005;10;6.82356
+Delaware;2005;11;3.06475
+Delaware;2005;12;3.14272
+Delaware;2006;1;3.23568
+Delaware;2006;2;1.64091
+Delaware;2006;3;0.21388
+Delaware;2006;4;2.41677
+Delaware;2006;5;1.43060
+Delaware;2006;6;8.28374
+Delaware;2006;7;4.03861
+Delaware;2006;8;1.07771
+Delaware;2006;9;5.90566
+Delaware;2006;10;4.46090
+Delaware;2006;11;4.44525
+Delaware;2006;12;1.52453
+Delaware;2007;1;2.96588
+Delaware;2007;2;1.92522
+Delaware;2007;3;2.99658
+Delaware;2007;4;5.05768
+Delaware;2007;5;0.98260
+Delaware;2007;6;2.67677
+Delaware;2007;7;1.82590
+Delaware;2007;8;2.65484
+Delaware;2007;9;1.02646
+Delaware;2007;10;4.16207
+Delaware;2007;11;1.10323
+Delaware;2007;12;2.35963
+Delaware;2008;1;1.41017
+Delaware;2008;2;3.04796
+Delaware;2008;3;2.49238
+Delaware;2008;4;2.97313
+Delaware;2008;5;4.36921
+Delaware;2008;6;2.58111
+Delaware;2008;7;3.21173
+Delaware;2008;8;1.01290
+Delaware;2008;9;3.92929
+Delaware;2008;10;1.43206
+Delaware;2008;11;4.21687
+Delaware;2008;12;4.08113
+District of Columbia;2003;1;2.35484
+District of Columbia;2003;2;6.35357
+District of Columbia;2003;3;3.39677
+District of Columbia;2003;4;2.61333
+District of Columbia;2003;5;5.91613
+District of Columbia;2003;6;5.70667
+District of Columbia;2003;7;4.92903
+District of Columbia;2003;8;4.43548
+District of Columbia;2003;9;5.67333
+District of Columbia;2003;10;3.83226
+District of Columbia;2003;11;4.18667
+District of Columbia;2003;12;4.50645
+District of Columbia;2004;1;1.33548
+District of Columbia;2004;2;1.91724
+District of Columbia;2004;3;1.83226
+District of Columbia;2004;4;4.02667
+District of Columbia;2004;5;2.54194
+District of Columbia;2004;6;2.97000
+District of Columbia;2004;7;4.37097
+District of Columbia;2004;8;3.37419
+District of Columbia;2004;9;3.58000
+District of Columbia;2004;10;1.15806
+District of Columbia;2004;11;3.63333
+District of Columbia;2004;12;2.50968
+District of Columbia;2005;1;2.85484
+District of Columbia;2005;2;1.67857
+District of Columbia;2005;3;3.84193
+District of Columbia;2005;4;3.82333
+District of Columbia;2005;5;3.39032
+District of Columbia;2005;6;2.60333
+District of Columbia;2005;7;4.97097
+District of Columbia;2005;8;2.04194
+District of Columbia;2005;9;0.37667
+District of Columbia;2005;10;7.81613
+District of Columbia;2005;11;2.08000
+District of Columbia;2005;12;2.69032
+District of Columbia;2006;1;2.84516
+District of Columbia;2006;2;2.15000
+District of Columbia;2006;3;0.12258
+District of Columbia;2006;4;2.92333
+District of Columbia;2006;5;1.90000
+District of Columbia;2006;6;9.67333
+District of Columbia;2006;7;2.40645
+District of Columbia;2006;8;0.92903
+District of Columbia;2006;9;5.40333
+District of Columbia;2006;10;4.15806
+District of Columbia;2006;11;5.27667
+District of Columbia;2006;12;1.43871
+District of Columbia;2007;1;2.09032
+District of Columbia;2007;2;2.39286
+District of Columbia;2007;3;2.96129
+District of Columbia;2007;4;3.74333
+District of Columbia;2007;5;1.33548
+District of Columbia;2007;6;2.52000
+District of Columbia;2007;7;2.05161
+District of Columbia;2007;8;2.81935
+District of Columbia;2007;9;0.67000
+District of Columbia;2007;10;4.45484
+District of Columbia;2007;11;1.30667
+District of Columbia;2007;12;2.17097
+District of Columbia;2008;1;1.10322
+District of Columbia;2008;2;3.48621
+District of Columbia;2008;3;2.67097
+District of Columbia;2008;4;4.80333
+District of Columbia;2008;5;6.02581
+District of Columbia;2008;6;5.24667
+District of Columbia;2008;7;2.97419
+District of Columbia;2008;8;1.43548
+District of Columbia;2008;9;6.10667
+District of Columbia;2008;10;1.45161
+District of Columbia;2008;11;2.21000
+District of Columbia;2008;12;2.58065
+Florida;2003;1;0.60154
+Florida;2003;2;3.58880
+Florida;2003;3;5.18831
+Florida;2003;4;2.49253
+Florida;2003;5;3.20391
+Florida;2003;6;8.62968
+Florida;2003;7;6.39795
+Florida;2003;8;6.99558
+Florida;2003;9;4.63493
+Florida;2003;10;2.12024
+Florida;2003;11;1.94740
+Florida;2003;12;1.70798
+Florida;2004;1;1.93390
+Florida;2004;2;4.08950
+Florida;2004;3;0.76903
+Florida;2004;4;1.98991
+Florida;2004;5;1.22215
+Florida;2004;6;6.85702
+Florida;2004;7;5.59063
+Florida;2004;8;7.40193
+Florida;2004;9;10.70465
+Florida;2004;10;1.96775
+Florida;2004;11;2.15864
+Florida;2004;12;1.95277
+Florida;2005;1;1.45704
+Florida;2005;2;2.38583
+Florida;2005;3;5.03690
+Florida;2005;4;4.39192
+Florida;2005;5;3.44976
+Florida;2005;6;9.62572
+Florida;2005;7;6.53377
+Florida;2005;8;6.22812
+Florida;2005;9;3.43377
+Florida;2005;10;4.29219
+Florida;2005;11;2.33764
+Florida;2005;12;2.52312
+Florida;2006;1;1.38671
+Florida;2006;2;3.74253
+Florida;2006;3;0.42162
+Florida;2006;4;1.34951
+Florida;2006;5;2.21712
+Florida;2006;6;4.86793
+Florida;2006;7;5.30779
+Florida;2006;8;5.78623
+Florida;2006;9;4.19796
+Florida;2006;10;1.75957
+Florida;2006;11;1.53296
+Florida;2006;12;2.75266
+Florida;2007;1;1.99969
+Florida;2007;2;2.15298
+Florida;2007;3;1.04752
+Florida;2007;4;1.86374
+Florida;2007;5;1.11003
+Florida;2007;6;5.30289
+Florida;2007;7;6.53566
+Florida;2007;8;4.24850
+Florida;2007;9;5.02778
+Florida;2007;10;4.85532
+Florida;2007;11;1.22334
+Florida;2007;12;1.65012
+Florida;2008;1;2.32827
+Florida;2008;2;3.61033
+Florida;2008;3;2.91327
+Florida;2008;4;2.90693
+Florida;2008;5;1.32148
+Florida;2008;6;6.18173
+Florida;2008;7;6.69811
+Florida;2008;8;10.39387
+Florida;2008;9;3.01281
+Florida;2008;10;3.28913
+Florida;2008;11;1.78848
+Florida;2008;12;1.62323
+Georgia;2003;1;1.09468
+Georgia;2003;2;4.69012
+Georgia;2003;3;5.78492
+Georgia;2003;4;3.99906
+Georgia;2003;5;5.18455
+Georgia;2003;6;6.22115
+Georgia;2003;7;6.29385
+Georgia;2003;8;4.57968
+Georgia;2003;9;2.25351
+Georgia;2003;10;2.36481
+Georgia;2003;11;2.34400
+Georgia;2003;12;1.89879
+Georgia;2004;1;2.30261
+Georgia;2004;2;4.52231
+Georgia;2004;3;0.71539
+Georgia;2004;4;1.91263
+Georgia;2004;5;2.10294
+Georgia;2004;6;6.35312
+Georgia;2004;7;3.21551
+Georgia;2004;8;3.62376
+Georgia;2004;9;10.03348
+Georgia;2004;10;1.50719
+Georgia;2004;11;3.97847
+Georgia;2004;12;2.49025
+Georgia;2005;1;1.72101
+Georgia;2005;2;3.87390
+Georgia;2005;3;6.19068
+Georgia;2005;4;4.22404
+Georgia;2005;5;2.08075
+Georgia;2005;6;6.03899
+Georgia;2005;7;7.09682
+Georgia;2005;8;5.05271
+Georgia;2005;9;0.65752
+Georgia;2005;10;2.64654
+Georgia;2005;11;2.45934
+Georgia;2005;12;3.35452
+Georgia;2006;1;3.55301
+Georgia;2006;2;3.79654
+Georgia;2006;3;1.33519
+Georgia;2006;4;2.18113
+Georgia;2006;5;2.12666
+Georgia;2006;6;3.35623
+Georgia;2006;7;2.64885
+Georgia;2006;8;4.01049
+Georgia;2006;9;2.80725
+Georgia;2006;10;2.50401
+Georgia;2006;11;2.61345
+Georgia;2006;12;3.22516
+Georgia;2007;1;3.10447
+Georgia;2007;2;2.45997
+Georgia;2007;3;1.80415
+Georgia;2007;4;1.61075
+Georgia;2007;5;0.55491
+Georgia;2007;6;3.75012
+Georgia;2007;7;4.13000
+Georgia;2007;8;3.73824
+Georgia;2007;9;2.52758
+Georgia;2007;10;2.26548
+Georgia;2007;11;1.05815
+Georgia;2007;12;2.62762
+Georgia;2008;1;2.82105
+Georgia;2008;2;5.03790
+Georgia;2008;3;2.92078
+Georgia;2008;4;2.71096
+Georgia;2008;5;2.23651
+Georgia;2008;6;2.32433
+Georgia;2008;7;4.11570
+Georgia;2008;8;5.33691
+Georgia;2008;9;1.07648
+Georgia;2008;10;3.62157
+Georgia;2008;11;3.52060
+Georgia;2008;12;3.66620
+Idaho;2003;1;2.59467
+Idaho;2003;2;1.72155
+Idaho;2003;3;2.73984
+Idaho;2003;4;2.07536
+Idaho;2003;5;1.78403
+Idaho;2003;6;0.61673
+Idaho;2003;7;0.35356
+Idaho;2003;8;1.01220
+Idaho;2003;9;0.72782
+Idaho;2003;10;0.75023
+Idaho;2003;11;2.15282
+Idaho;2003;12;2.84829
+Idaho;2004;1;2.08993
+Idaho;2004;2;1.78279
+Idaho;2004;3;0.87968
+Idaho;2004;4;1.18290
+Idaho;2004;5;3.10738
+Idaho;2004;6;1.33700
+Idaho;2004;7;0.90189
+Idaho;2004;8;1.72220
+Idaho;2004;9;1.43849
+Idaho;2004;10;2.16611
+Idaho;2004;11;1.18860
+Idaho;2004;12;2.11284
+Idaho;2005;1;1.43334
+Idaho;2005;2;0.63370
+Idaho;2005;3;2.03444
+Idaho;2005;4;1.97147
+Idaho;2005;5;3.48970
+Idaho;2005;6;2.39232
+Idaho;2005;7;0.34276
+Idaho;2005;8;0.52940
+Idaho;2005;9;0.91758
+Idaho;2005;10;1.54018
+Idaho;2005;11;2.35514
+Idaho;2005;12;3.69435
+Idaho;2006;1;3.54426
+Idaho;2006;2;1.62594
+Idaho;2006;3;2.12461
+Idaho;2006;4;2.59633
+Idaho;2006;5;1.44820
+Idaho;2006;6;1.60241
+Idaho;2006;7;0.57093
+Idaho;2006;8;0.40593
+Idaho;2006;9;1.21195
+Idaho;2006;10;1.31651
+Idaho;2006;11;3.85089
+Idaho;2006;12;2.31635
+Idaho;2007;1;1.19987
+Idaho;2007;2;2.21973
+Idaho;2007;3;1.22237
+Idaho;2007;4;1.40938
+Idaho;2007;5;0.99230
+Idaho;2007;6;1.15507
+Idaho;2007;7;0.43080
+Idaho;2007;8;0.55934
+Idaho;2007;9;1.12977
+Idaho;2007;10;2.21616
+Idaho;2007;11;1.65790
+Idaho;2007;12;2.05343
+Idaho;2008;1;2.73462
+Idaho;2008;2;1.73436
+Idaho;2008;3;1.89374
+Idaho;2008;4;1.09225
+Idaho;2008;5;1.73385
+Idaho;2008;6;1.30960
+Idaho;2008;7;0.28080
+Idaho;2008;8;0.70441
+Idaho;2008;9;0.64550
+Idaho;2008;10;0.94480
+Idaho;2008;11;2.20854
+Idaho;2008;12;2.82378
+Illinois;2003;1;0.55593
+Illinois;2003;2;1.62401
+Illinois;2003;3;1.70070
+Illinois;2003;4;2.92312
+Illinois;2003;5;4.35947
+Illinois;2003;6;3.37187
+Illinois;2003;7;4.29306
+Illinois;2003;8;2.89516
+Illinois;2003;9;2.89739
+Illinois;2003;10;1.58590
+Illinois;2003;11;3.80941
+Illinois;2003;12;2.11346
+Illinois;2004;1;1.60705
+Illinois;2004;2;0.70132
+Illinois;2004;3;3.44047
+Illinois;2004;4;1.72198
+Illinois;2004;5;5.49625
+Illinois;2004;6;2.60745
+Illinois;2004;7;3.37180
+Illinois;2004;8;4.22657
+Illinois;2004;9;0.58508
+Illinois;2004;10;3.92100
+Illinois;2004;11;4.25574
+Illinois;2004;12;1.25984
+Illinois;2005;1;4.47293
+Illinois;2005;2;1.73762
+Illinois;2005;3;1.25759
+Illinois;2005;4;2.16521
+Illinois;2005;5;1.52297
+Illinois;2005;6;1.70723
+Illinois;2005;7;2.72229
+Illinois;2005;8;3.12641
+Illinois;2005;9;3.05347
+Illinois;2005;10;1.37816
+Illinois;2005;11;2.68745
+Illinois;2005;12;1.04585
+Illinois;2006;1;2.23975
+Illinois;2006;2;0.82428
+Illinois;2006;3;3.81480
+Illinois;2006;4;3.47171
+Illinois;2006;5;2.72991
+Illinois;2006;6;2.49805
+Illinois;2006;7;3.40581
+Illinois;2006;8;3.44219
+Illinois;2006;9;2.86963
+Illinois;2006;10;3.16698
+Illinois;2006;11;3.23907
+Illinois;2006;12;2.41721
+Illinois;2007;1;2.29899
+Illinois;2007;2;2.07008
+Illinois;2007;3;2.82781
+Illinois;2007;4;2.70247
+Illinois;2007;5;2.01050
+Illinois;2007;6;3.38670
+Illinois;2007;7;2.86647
+Illinois;2007;8;3.82927
+Illinois;2007;9;1.49613
+Illinois;2007;10;2.73977
+Illinois;2007;11;1.40403
+Illinois;2007;12;3.04723
+Illinois;2008;1;2.08582
+Illinois;2008;2;3.72676
+Illinois;2008;3;4.19361
+Illinois;2008;4;3.12698
+Illinois;2008;5;4.56910
+Illinois;2008;6;4.81893
+Illinois;2008;7;4.95796
+Illinois;2008;8;1.68751
+Illinois;2008;9;6.49358
+Illinois;2008;10;1.95721
+Illinois;2008;11;1.14289
+Illinois;2008;12;3.52912
+Indiana;2003;1;1.00937
+Indiana;2003;2;2.54661
+Indiana;2003;3;1.87961
+Indiana;2003;4;2.63155
+Indiana;2003;5;5.27682
+Indiana;2003;6;2.84465
+Indiana;2003;7;6.99914
+Indiana;2003;8;3.44841
+Indiana;2003;9;4.94243
+Indiana;2003;10;1.99049
+Indiana;2003;11;3.58191
+Indiana;2003;12;2.29421
+Indiana;2004;1;2.81406
+Indiana;2004;2;0.73196
+Indiana;2004;3;2.94035
+Indiana;2004;4;1.63981
+Indiana;2004;5;5.73209
+Indiana;2004;6;3.88593
+Indiana;2004;7;4.30393
+Indiana;2004;8;4.03850
+Indiana;2004;9;0.66520
+Indiana;2004;10;3.43244
+Indiana;2004;11;4.31377
+Indiana;2004;12;2.05847
+Indiana;2005;1;5.96590
+Indiana;2005;2;2.22859
+Indiana;2005;3;1.69694
+Indiana;2005;4;2.63319
+Indiana;2005;5;2.25151
+Indiana;2005;6;2.89204
+Indiana;2005;7;3.64911
+Indiana;2005;8;3.98821
+Indiana;2005;9;3.42321
+Indiana;2005;10;1.12265
+Indiana;2005;11;3.34068
+Indiana;2005;12;1.82635
+Indiana;2006;1;2.76419
+Indiana;2006;2;1.50019
+Indiana;2006;3;4.49981
+Indiana;2006;4;3.62920
+Indiana;2006;5;3.94336
+Indiana;2006;6;3.71082
+Indiana;2006;7;4.34895
+Indiana;2006;8;4.15780
+Indiana;2006;9;3.91297
+Indiana;2006;10;4.16089
+Indiana;2006;11;3.43695
+Indiana;2006;12;3.59485
+Indiana;2007;1;3.55081
+Indiana;2007;2;2.24796
+Indiana;2007;3;3.11831
+Indiana;2007;4;3.47532
+Indiana;2007;5;1.56130
+Indiana;2007;6;2.93376
+Indiana;2007;7;2.77472
+Indiana;2007;8;3.83809
+Indiana;2007;9;2.25320
+Indiana;2007;10;3.17885
+Indiana;2007;11;2.27853
+Indiana;2007;12;3.86721
+Indiana;2008;1;2.68455
+Indiana;2008;2;4.27163
+Indiana;2008;3;5.69312
+Indiana;2008;4;2.53863
+Indiana;2008;5;4.71214
+Indiana;2008;6;5.89012
+Indiana;2008;7;3.71627
+Indiana;2008;8;1.79611
+Indiana;2008;9;3.20414
+Indiana;2008;10;1.85774
+Indiana;2008;11;1.72837
+Indiana;2008;12;4.15893
+Iowa;2003;1;0.29459
+Iowa;2003;2;0.62721
+Iowa;2003;3;0.88367
+Iowa;2003;4;2.91915
+Iowa;2003;5;3.33631
+Iowa;2003;6;3.65092
+Iowa;2003;7;3.43714
+Iowa;2003;8;0.97132
+Iowa;2003;9;2.42795
+Iowa;2003;10;0.77892
+Iowa;2003;11;2.79331
+Iowa;2003;12;1.05173
+Iowa;2004;1;0.65550
+Iowa;2004;2;0.97207
+Iowa;2004;3;2.91718
+Iowa;2004;4;1.54545
+Iowa;2004;5;6.00443
+Iowa;2004;6;2.92889
+Iowa;2004;7;3.44957
+Iowa;2004;8;3.66577
+Iowa;2004;9;2.26116
+Iowa;2004;10;1.61543
+Iowa;2004;11;1.75822
+Iowa;2004;12;0.45283
+Iowa;2005;1;1.09477
+Iowa;2005;2;1.36471
+Iowa;2005;3;0.87662
+Iowa;2005;4;2.84227
+Iowa;2005;5;3.15556
+Iowa;2005;6;4.11446
+Iowa;2005;7;2.69524
+Iowa;2005;8;2.38959
+Iowa;2005;9;2.73571
+Iowa;2005;10;0.70820
+Iowa;2005;11;1.46249
+Iowa;2005;12;0.84197
+Iowa;2006;1;0.79296
+Iowa;2006;2;0.28708
+Iowa;2006;3;2.56444
+Iowa;2006;4;3.73338
+Iowa;2006;5;1.76067
+Iowa;2006;6;2.14381
+Iowa;2006;7;2.58941
+Iowa;2006;8;4.59412
+Iowa;2006;9;3.27927
+Iowa;2006;10;1.27754
+Iowa;2006;11;1.44009
+Iowa;2006;12;1.80316
+Iowa;2007;1;0.72411
+Iowa;2007;2;1.50072
+Iowa;2007;3;2.51278
+Iowa;2007;4;3.37211
+Iowa;2007;5;4.08795
+Iowa;2007;6;2.78783
+Iowa;2007;7;2.79623
+Iowa;2007;8;7.65111
+Iowa;2007;9;2.75757
+Iowa;2007;10;3.51517
+Iowa;2007;11;0.14766
+Iowa;2007;12;1.82902
+Iowa;2008;1;0.49745
+Iowa;2008;2;1.44648
+Iowa;2008;3;1.36040
+Iowa;2008;4;4.30574
+Iowa;2008;5;4.58676
+Iowa;2008;6;7.19363
+Iowa;2008;7;4.83368
+Iowa;2008;8;1.63703
+Iowa;2008;9;3.37815
+Iowa;2008;10;2.52648
+Iowa;2008;11;1.18629
+Iowa;2008;12;1.51113
+Kansas;2003;1;0.17847
+Kansas;2003;2;1.09804
+Kansas;2003;3;1.79402
+Kansas;2003;4;2.90573
+Kansas;2003;5;3.09761
+Kansas;2003;6;3.99242
+Kansas;2003;7;0.90520
+Kansas;2003;8;4.04331
+Kansas;2003;9;2.31217
+Kansas;2003;10;0.91860
+Kansas;2003;11;0.60833
+Kansas;2003;12;0.98585
+Kansas;2004;1;0.70192
+Kansas;2004;2;1.09492
+Kansas;2004;3;2.52444
+Kansas;2004;4;2.42911
+Kansas;2004;5;2.05185
+Kansas;2004;6;4.98872
+Kansas;2004;7;4.92856
+Kansas;2004;8;2.31400
+Kansas;2004;9;1.91825
+Kansas;2004;10;2.02491
+Kansas;2004;11;2.14851
+Kansas;2004;12;0.26227
+Kansas;2005;1;1.62192
+Kansas;2005;2;1.52005
+Kansas;2005;3;1.20193
+Kansas;2005;4;1.83800
+Kansas;2005;5;3.07360
+Kansas;2005;6;5.39999
+Kansas;2005;7;2.81142
+Kansas;2005;8;4.73222
+Kansas;2005;9;1.55734
+Kansas;2005;10;2.28157
+Kansas;2005;11;0.56510
+Kansas;2005;12;0.42828
+Kansas;2006;1;0.33292
+Kansas;2006;2;0.01474
+Kansas;2006;3;1.57182
+Kansas;2006;4;2.21958
+Kansas;2006;5;2.71623
+Kansas;2006;6;2.80433
+Kansas;2006;7;2.25227
+Kansas;2006;8;4.35005
+Kansas;2006;9;1.73441
+Kansas;2006;10;1.87527
+Kansas;2006;11;0.53675
+Kansas;2006;12;2.56495
+Kansas;2007;1;0.95417
+Kansas;2007;2;0.87162
+Kansas;2007;3;3.02613
+Kansas;2007;4;3.13908
+Kansas;2007;5;5.23160
+Kansas;2007;6;5.22570
+Kansas;2007;7;3.08905
+Kansas;2007;8;2.34768
+Kansas;2007;9;1.98703
+Kansas;2007;10;2.49730
+Kansas;2007;11;0.14311
+Kansas;2007;12;2.14379
+Kansas;2008;1;0.38139
+Kansas;2008;2;1.31355
+Kansas;2008;3;1.30741
+Kansas;2008;4;2.44968
+Kansas;2008;5;4.57202
+Kansas;2008;6;4.41834
+Kansas;2008;7;3.10579
+Kansas;2008;8;3.46536
+Kansas;2008;9;3.48849
+Kansas;2008;10;4.01886
+Kansas;2008;11;0.80261
+Kansas;2008;12;0.62196
+Kentucky;2003;1;1.20046
+Kentucky;2003;2;5.91892
+Kentucky;2003;3;1.72764
+Kentucky;2003;4;4.75991
+Kentucky;2003;5;5.66406
+Kentucky;2003;6;4.87598
+Kentucky;2003;7;4.29428
+Kentucky;2003;8;4.51552
+Kentucky;2003;9;4.79175
+Kentucky;2003;10;1.83946
+Kentucky;2003;11;4.71329
+Kentucky;2003;12;2.76432
+Kentucky;2004;1;3.16324
+Kentucky;2004;2;2.29643
+Kentucky;2004;3;3.45647
+Kentucky;2004;4;4.02665
+Kentucky;2004;5;6.87417
+Kentucky;2004;6;3.44415
+Kentucky;2004;7;4.88155
+Kentucky;2004;8;2.97724
+Kentucky;2004;9;3.13139
+Kentucky;2004;10;3.92121
+Kentucky;2004;11;5.40901
+Kentucky;2004;12;3.33908
+Kentucky;2005;1;3.95101
+Kentucky;2005;2;2.52751
+Kentucky;2005;3;2.93897
+Kentucky;2005;4;4.19357
+Kentucky;2005;5;2.03731
+Kentucky;2005;6;2.36763
+Kentucky;2005;7;3.54238
+Kentucky;2005;8;5.06104
+Kentucky;2005;9;1.12505
+Kentucky;2005;10;0.79960
+Kentucky;2005;11;2.79809
+Kentucky;2005;12;1.94697
+Kentucky;2006;1;4.44988
+Kentucky;2006;2;1.93840
+Kentucky;2006;3;2.94749
+Kentucky;2006;4;3.89199
+Kentucky;2006;5;3.30190
+Kentucky;2006;6;3.29333
+Kentucky;2006;7;3.80032
+Kentucky;2006;8;3.69000
+Kentucky;2006;9;6.68022
+Kentucky;2006;10;3.81497
+Kentucky;2006;11;2.53403
+Kentucky;2006;12;2.42898
+Kentucky;2007;1;3.15006
+Kentucky;2007;2;2.14078
+Kentucky;2007;3;2.23197
+Kentucky;2007;4;3.25577
+Kentucky;2007;5;1.82917
+Kentucky;2007;6;2.74367
+Kentucky;2007;7;3.43738
+Kentucky;2007;8;1.39529
+Kentucky;2007;9;1.94775
+Kentucky;2007;10;4.69111
+Kentucky;2007;11;2.81410
+Kentucky;2007;12;4.88621
+Kentucky;2008;1;2.83496
+Kentucky;2008;2;3.93387
+Kentucky;2008;3;5.56834
+Kentucky;2008;4;4.50986
+Kentucky;2008;5;4.19365
+Kentucky;2008;6;2.98746
+Kentucky;2008;7;4.02349
+Kentucky;2008;8;0.99085
+Kentucky;2008;9;0.89241
+Kentucky;2008;10;1.93101
+Kentucky;2008;11;2.26133
+Kentucky;2008;12;4.84962
+Louisiana;2003;1;0.78700
+Louisiana;2003;2;6.36154
+Louisiana;2003;3;2.70688
+Louisiana;2003;4;2.83300
+Louisiana;2003;5;2.02115
+Louisiana;2003;6;7.86123
+Louisiana;2003;7;5.06465
+Louisiana;2003;8;3.59307
+Louisiana;2003;9;4.03755
+Louisiana;2003;10;1.94098
+Louisiana;2003;11;4.58485
+Louisiana;2003;12;2.71583
+Louisiana;2004;1;3.94547
+Louisiana;2004;2;7.51019
+Louisiana;2004;3;1.90463
+Louisiana;2004;4;4.56081
+Louisiana;2004;5;8.41033
+Louisiana;2004;6;10.98615
+Louisiana;2004;7;3.43222
+Louisiana;2004;8;2.65725
+Louisiana;2004;9;1.45481
+Louisiana;2004;10;5.73861
+Louisiana;2004;11;7.51814
+Louisiana;2004;12;2.87895
+Louisiana;2005;1;3.39372
+Louisiana;2005;2;5.11775
+Louisiana;2005;3;2.76844
+Louisiana;2005;4;2.82439
+Louisiana;2005;5;2.66099
+Louisiana;2005;6;2.45579
+Louisiana;2005;7;5.04189
+Louisiana;2005;8;4.00441
+Louisiana;2005;9;5.28872
+Louisiana;2005;10;0.21003
+Louisiana;2005;11;1.94810
+Louisiana;2005;12;2.75198
+Louisiana;2006;1;3.25688
+Louisiana;2006;2;4.77399
+Louisiana;2006;3;2.20402
+Louisiana;2006;4;3.80587
+Louisiana;2006;5;2.36756
+Louisiana;2006;6;2.20713
+Louisiana;2006;7;5.34567
+Louisiana;2006;8;4.01606
+Louisiana;2006;9;2.73152
+Louisiana;2006;10;8.64256
+Louisiana;2006;11;2.29840
+Louisiana;2006;12;6.12574
+Louisiana;2007;1;5.94815
+Louisiana;2007;2;1.55070
+Louisiana;2007;3;1.70670
+Louisiana;2007;4;3.30721
+Louisiana;2007;5;4.17012
+Louisiana;2007;6;4.71192
+Louisiana;2007;7;7.50935
+Louisiana;2007;8;2.55347
+Louisiana;2007;9;4.38076
+Louisiana;2007;10;3.12774
+Louisiana;2007;11;2.62657
+Louisiana;2007;12;2.72042
+Louisiana;2008;1;4.51220
+Louisiana;2008;2;3.98092
+Louisiana;2008;3;2.83137
+Louisiana;2008;4;2.73856
+Louisiana;2008;5;4.83878
+Louisiana;2008;6;3.59931
+Louisiana;2008;7;3.02588
+Louisiana;2008;8;6.70074
+Louisiana;2008;9;7.99532
+Louisiana;2008;10;1.65219
+Louisiana;2008;11;2.27323
+Louisiana;2008;12;4.46973
+Maine;2003;1;0.93104
+Maine;2003;2;2.48158
+Maine;2003;3;2.79175
+Maine;2003;4;1.58368
+Maine;2003;5;2.87376
+Maine;2003;6;3.05236
+Maine;2003;7;2.95295
+Maine;2003;8;3.02010
+Maine;2003;9;4.01050
+Maine;2003;10;6.45028
+Maine;2003;11;3.72877
+Maine;2003;12;4.63732
+Maine;2004;1;0.77247
+Maine;2004;2;1.25442
+Maine;2004;3;1.36076
+Maine;2004;4;2.96936
+Maine;2004;5;3.02715
+Maine;2004;6;2.33228
+Maine;2004;7;4.02982
+Maine;2004;8;5.02683
+Maine;2004;9;2.25532
+Maine;2004;10;2.02483
+Maine;2004;11;3.48761
+Maine;2004;12;4.04673
+Maine;2005;1;2.79616
+Maine;2005;2;2.66000
+Maine;2005;3;3.68540
+Maine;2005;4;6.40035
+Maine;2005;5;4.70444
+Maine;2005;6;2.96158
+Maine;2005;7;3.32278
+Maine;2005;8;4.18583
+Maine;2005;9;3.20659
+Maine;2005;10;9.35846
+Maine;2005;11;5.95936
+Maine;2005;12;4.05788
+Maine;2006;1;3.61759
+Maine;2006;2;2.24250
+Maine;2006;3;0.94946
+Maine;2006;4;1.99300
+Maine;2006;5;4.68207
+Maine;2006;6;6.35213
+Maine;2006;7;4.29646
+Maine;2006;8;3.18197
+Maine;2006;9;2.42762
+Maine;2006;10;6.56301
+Maine;2006;11;4.39732
+Maine;2006;12;2.50372
+Maine;2007;1;2.18723
+Maine;2007;2;1.79436
+Maine;2007;3;3.32143
+Maine;2007;4;5.81365
+Maine;2007;5;2.50104
+Maine;2007;6;2.46222
+Maine;2007;7;2.80208
+Maine;2007;8;3.73797
+Maine;2007;9;1.97309
+Maine;2007;10;3.95142
+Maine;2007;11;5.72170
+Maine;2007;12;2.68073
+Maine;2008;1;2.29257
+Maine;2008;2;4.72714
+Maine;2008;3;3.82008
+Maine;2008;4;3.57287
+Maine;2008;5;1.70717
+Maine;2008;6;4.93891
+Maine;2008;7;5.09136
+Maine;2008;8;4.55140
+Maine;2008;9;5.13400
+Maine;2008;10;3.43012
+Maine;2008;11;5.10035
+Maine;2008;12;4.95965
+Maryland;2003;1;2.02386
+Maryland;2003;2;5.76979
+Maryland;2003;3;3.34995
+Maryland;2003;4;2.76797
+Maryland;2003;5;5.64950
+Maryland;2003;6;5.79732
+Maryland;2003;7;3.99929
+Maryland;2003;8;4.56656
+Maryland;2003;9;6.75864
+Maryland;2003;10;3.53355
+Maryland;2003;11;3.94256
+Maryland;2003;12;4.32710
+Maryland;2004;1;1.78879
+Maryland;2004;2;1.99673
+Maryland;2004;3;2.15416
+Maryland;2004;4;4.63838
+Maryland;2004;5;3.36360
+Maryland;2004;6;4.05945
+Maryland;2004;7;5.28801
+Maryland;2004;8;4.20374
+Maryland;2004;9;4.92942
+Maryland;2004;10;1.36180
+Maryland;2004;11;3.73237
+Maryland;2004;12;2.44975
+Maryland;2005;1;3.33209
+Maryland;2005;2;2.00139
+Maryland;2005;3;3.65903
+Maryland;2005;4;3.20938
+Maryland;2005;5;2.96749
+Maryland;2005;6;2.85618
+Maryland;2005;7;4.92355
+Maryland;2005;8;2.54562
+Maryland;2005;9;0.33533
+Maryland;2005;10;6.61627
+Maryland;2005;11;2.69420
+Maryland;2005;12;2.73636
+Maryland;2006;1;3.04882
+Maryland;2006;2;1.78537
+Maryland;2006;3;0.32278
+Maryland;2006;4;2.95320
+Maryland;2006;5;2.03239
+Maryland;2006;6;7.84441
+Maryland;2006;7;3.29142
+Maryland;2006;8;1.08640
+Maryland;2006;9;5.88179
+Maryland;2006;10;4.00202
+Maryland;2006;11;4.39141
+Maryland;2006;12;1.61611
+Maryland;2007;1;2.40257
+Maryland;2007;2;2.15553
+Maryland;2007;3;3.17822
+Maryland;2007;4;3.74026
+Maryland;2007;5;1.18024
+Maryland;2007;6;2.81520
+Maryland;2007;7;2.09978
+Maryland;2007;8;3.53434
+Maryland;2007;9;1.00719
+Maryland;2007;10;3.69386
+Maryland;2007;11;1.48073
+Maryland;2007;12;2.41788
+Maryland;2008;1;1.36231
+Maryland;2008;2;3.38404
+Maryland;2008;3;2.67552
+Maryland;2008;4;4.04806
+Maryland;2008;5;5.70603
+Maryland;2008;6;3.86742
+Maryland;2008;7;3.53977
+Maryland;2008;8;1.68332
+Maryland;2008;9;4.77550
+Maryland;2008;10;1.29344
+Maryland;2008;11;2.84303
+Maryland;2008;12;3.82043
+Massachusetts;2003;1;2.02643
+Massachusetts;2003;2;3.22992
+Massachusetts;2003;3;3.52711
+Massachusetts;2003;4;3.18312
+Massachusetts;2003;5;3.53517
+Massachusetts;2003;6;4.38895
+Massachusetts;2003;7;2.26813
+Massachusetts;2003;8;4.69458
+Massachusetts;2003;9;4.78870
+Massachusetts;2003;10;4.45455
+Massachusetts;2003;11;2.62955
+Massachusetts;2003;12;4.58633
+Massachusetts;2004;1;1.16681
+Massachusetts;2004;2;1.73714
+Massachusetts;2004;3;2.49952
+Massachusetts;2004;4;5.59675
+Massachusetts;2004;5;3.29692
+Massachusetts;2004;6;1.92564
+Massachusetts;2004;7;3.36282
+Massachusetts;2004;8;4.65974
+Massachusetts;2004;9;6.33929
+Massachusetts;2004;10;1.76236
+Massachusetts;2004;11;3.12139
+Massachusetts;2004;12;3.62457
+Massachusetts;2005;1;3.93399
+Massachusetts;2005;2;2.37852
+Massachusetts;2005;3;3.83414
+Massachusetts;2005;4;4.28598
+Massachusetts;2005;5;3.31747
+Massachusetts;2005;6;2.23141
+Massachusetts;2005;7;3.02703
+Massachusetts;2005;8;2.79921
+Massachusetts;2005;9;2.21934
+Massachusetts;2005;10;11.50993
+Massachusetts;2005;11;4.46994
+Massachusetts;2005;12;3.08397
+Massachusetts;2006;1;4.59253
+Massachusetts;2006;2;2.08787
+Massachusetts;2006;3;0.59963
+Massachusetts;2006;4;2.57132
+Massachusetts;2006;5;6.22405
+Massachusetts;2006;6;7.87017
+Massachusetts;2006;7;2.79578
+Massachusetts;2006;8;3.58755
+Massachusetts;2006;9;2.33466
+Massachusetts;2006;10;4.90562
+Massachusetts;2006;11;4.70765
+Massachusetts;2006;12;1.86036
+Massachusetts;2007;1;2.74330
+Massachusetts;2007;2;1.93961
+Massachusetts;2007;3;4.16150
+Massachusetts;2007;4;6.45504
+Massachusetts;2007;5;2.68734
+Massachusetts;2007;6;2.59788
+Massachusetts;2007;7;3.67452
+Massachusetts;2007;8;1.23077
+Massachusetts;2007;9;2.14517
+Massachusetts;2007;10;3.01538
+Massachusetts;2007;11;2.65361
+Massachusetts;2007;12;3.30724
+Massachusetts;2008;1;2.10308
+Massachusetts;2008;2;7.47706
+Massachusetts;2008;3;4.74861
+Massachusetts;2008;4;3.17722
+Massachusetts;2008;5;1.85358
+Massachusetts;2008;6;3.69797
+Massachusetts;2008;7;5.95387
+Massachusetts;2008;8;3.59899
+Massachusetts;2008;9;6.97474
+Massachusetts;2008;10;2.47816
+Massachusetts;2008;11;3.83034
+Massachusetts;2008;12;5.94266
+Michigan;2003;1;0.74497
+Michigan;2003;2;0.87679
+Michigan;2003;3;1.77066
+Michigan;2003;4;2.51932
+Michigan;2003;5;3.23344
+Michigan;2003;6;1.80201
+Michigan;2003;7;3.08232
+Michigan;2003;8;2.31367
+Michigan;2003;9;2.87575
+Michigan;2003;10;1.91309
+Michigan;2003;11;4.06233
+Michigan;2003;12;1.76224
+Michigan;2004;1;1.62198
+Michigan;2004;2;1.09143
+Michigan;2004;3;2.64494
+Michigan;2004;4;1.83145
+Michigan;2004;5;5.62675
+Michigan;2004;6;2.54848
+Michigan;2004;7;2.59465
+Michigan;2004;8;2.71496
+Michigan;2004;9;0.89936
+Michigan;2004;10;3.15367
+Michigan;2004;11;2.42818
+Michigan;2004;12;2.32955
+Michigan;2005;1;2.41946
+Michigan;2005;2;1.79224
+Michigan;2005;3;1.00574
+Michigan;2005;4;1.22847
+Michigan;2005;5;1.75848
+Michigan;2005;6;2.51852
+Michigan;2005;7;3.07683
+Michigan;2005;8;2.23205
+Michigan;2005;9;3.11170
+Michigan;2005;10;1.66446
+Michigan;2005;11;3.67118
+Michigan;2005;12;1.70098
+Michigan;2006;1;2.45317
+Michigan;2006;2;1.74255
+Michigan;2006;3;2.07248
+Michigan;2006;4;1.78771
+Michigan;2006;5;4.02743
+Michigan;2006;6;2.03261
+Michigan;2006;7;3.32490
+Michigan;2006;8;2.74374
+Michigan;2006;9;2.94334
+Michigan;2006;10;3.50289
+Michigan;2006;11;2.08224
+Michigan;2006;12;2.61237
+Michigan;2007;1;1.52817
+Michigan;2007;2;0.97209
+Michigan;2007;3;2.30693
+Michigan;2007;4;2.58734
+Michigan;2007;5;1.95833
+Michigan;2007;6;2.19957
+Michigan;2007;7;1.75427
+Michigan;2007;8;3.22686
+Michigan;2007;9;2.35541
+Michigan;2007;10;3.13638
+Michigan;2007;11;1.20367
+Michigan;2007;12;1.76620
+Michigan;2008;1;2.43055
+Michigan;2008;2;2.26022
+Michigan;2008;3;1.50066
+Michigan;2008;4;2.46491
+Michigan;2008;5;2.04486
+Michigan;2008;6;3.96674
+Michigan;2008;7;2.77594
+Michigan;2008;8;1.37363
+Michigan;2008;9;4.37299
+Michigan;2008;10;1.68573
+Michigan;2008;11;1.88891
+Michigan;2008;12;3.32122
+Minnesota;2003;1;0.12548
+Minnesota;2003;2;0.32227
+Minnesota;2003;3;0.61466
+Minnesota;2003;4;1.62850
+Minnesota;2003;5;2.79028
+Minnesota;2003;6;3.66262
+Minnesota;2003;7;2.52931
+Minnesota;2003;8;1.20625
+Minnesota;2003;9;2.35564
+Minnesota;2003;10;0.87664
+Minnesota;2003;11;0.65496
+Minnesota;2003;12;0.45722
+Minnesota;2004;1;0.46989
+Minnesota;2004;2;0.58973
+Minnesota;2004;3;1.09520
+Minnesota;2004;4;1.12226
+Minnesota;2004;5;4.53303
+Minnesota;2004;6;2.25574
+Minnesota;2004;7;3.43666
+Minnesota;2004;8;2.37627
+Minnesota;2004;9;4.52093
+Minnesota;2004;10;2.37986
+Minnesota;2004;11;0.44663
+Minnesota;2004;12;0.66363
+Minnesota;2005;1;1.00226
+Minnesota;2005;2;0.65149
+Minnesota;2005;3;0.62270
+Minnesota;2005;4;1.67708
+Minnesota;2005;5;3.30132
+Minnesota;2005;6;4.79534
+Minnesota;2005;7;1.99341
+Minnesota;2005;8;3.11779
+Minnesota;2005;9;3.64480
+Minnesota;2005;10;2.39708
+Minnesota;2005;11;2.01726
+Minnesota;2005;12;0.83446
+Minnesota;2006;1;0.42912
+Minnesota;2006;2;0.36656
+Minnesota;2006;3;1.47533
+Minnesota;2006;4;2.22105
+Minnesota;2006;5;1.88163
+Minnesota;2006;6;2.19909
+Minnesota;2006;7;1.81277
+Minnesota;2006;8;2.86183
+Minnesota;2006;9;2.68754
+Minnesota;2006;10;0.94269
+Minnesota;2006;11;0.70312
+Minnesota;2006;12;1.11189
+Minnesota;2007;1;0.21683
+Minnesota;2007;2;0.87857
+Minnesota;2007;3;1.91820
+Minnesota;2007;4;1.54954
+Minnesota;2007;5;2.41707
+Minnesota;2007;6;2.85768
+Minnesota;2007;7;1.50454
+Minnesota;2007;8;3.09782
+Minnesota;2007;9;3.26094
+Minnesota;2007;10;3.26203
+Minnesota;2007;11;0.13675
+Minnesota;2007;12;0.79107
+Minnesota;2008;1;0.11253
+Minnesota;2008;2;0.22459
+Minnesota;2008;3;0.60242
+Minnesota;2008;4;2.39310
+Minnesota;2008;5;2.12074
+Minnesota;2008;6;3.77205
+Minnesota;2008;7;2.11715
+Minnesota;2008;8;1.49231
+Minnesota;2008;9;2.55062
+Minnesota;2008;10;2.48314
+Minnesota;2008;11;1.10284
+Minnesota;2008;12;1.04671
+Mississippi;2003;1;1.01666
+Mississippi;2003;2;7.71598
+Mississippi;2003;3;2.71132
+Mississippi;2003;4;4.40778
+Mississippi;2003;5;4.81537
+Mississippi;2003;6;6.97958
+Mississippi;2003;7;4.16722
+Mississippi;2003;8;4.22861
+Mississippi;2003;9;3.12465
+Mississippi;2003;10;2.09017
+Mississippi;2003;11;4.45943
+Mississippi;2003;12;2.75337
+Mississippi;2004;1;3.35280
+Mississippi;2004;2;7.12381
+Mississippi;2004;3;2.33435
+Mississippi;2004;4;3.53522
+Mississippi;2004;5;6.27193
+Mississippi;2004;6;8.39636
+Mississippi;2004;7;3.31714
+Mississippi;2004;8;3.11187
+Mississippi;2004;9;1.25313
+Mississippi;2004;10;4.18406
+Mississippi;2004;11;7.31892
+Mississippi;2004;12;4.32328
+Mississippi;2005;1;3.18438
+Mississippi;2005;2;4.45523
+Mississippi;2005;3;3.58605
+Mississippi;2005;4;5.68119
+Mississippi;2005;5;2.78100
+Mississippi;2005;6;2.59930
+Mississippi;2005;7;5.11737
+Mississippi;2005;8;5.58411
+Mississippi;2005;9;2.78393
+Mississippi;2005;10;0.06728
+Mississippi;2005;11;2.46273
+Mississippi;2005;12;3.48155
+Mississippi;2006;1;4.98255
+Mississippi;2006;2;5.48985
+Mississippi;2006;3;3.16326
+Mississippi;2006;4;3.03723
+Mississippi;2006;5;2.95541
+Mississippi;2006;6;1.69226
+Mississippi;2006;7;2.91087
+Mississippi;2006;8;2.93759
+Mississippi;2006;9;3.22883
+Mississippi;2006;10;6.00939
+Mississippi;2006;11;3.00475
+Mississippi;2006;12;4.55390
+Mississippi;2007;1;3.94096
+Mississippi;2007;2;1.99908
+Mississippi;2007;3;0.90458
+Mississippi;2007;4;2.87755
+Mississippi;2007;5;2.08467
+Mississippi;2007;6;2.77392
+Mississippi;2007;7;6.42668
+Mississippi;2007;8;1.89140
+Mississippi;2007;9;3.08117
+Mississippi;2007;10;3.89800
+Mississippi;2007;11;1.88443
+Mississippi;2007;12;2.57705
+Mississippi;2008;1;4.09201
+Mississippi;2008;2;4.15196
+Mississippi;2008;3;3.44623
+Mississippi;2008;4;4.82337
+Mississippi;2008;5;5.18410
+Mississippi;2008;6;2.34656
+Mississippi;2008;7;3.05753
+Mississippi;2008;8;6.55685
+Mississippi;2008;9;4.94999
+Mississippi;2008;10;2.19513
+Mississippi;2008;11;2.70172
+Mississippi;2008;12;6.77005
+Missouri;2003;1;0.51456
+Missouri;2003;2;2.30948
+Missouri;2003;3;1.95921
+Missouri;2003;4;3.65217
+Missouri;2003;5;4.18435
+Missouri;2003;6;4.21803
+Missouri;2003;7;2.11320
+Missouri;2003;8;4.18701
+Missouri;2003;9;4.08718
+Missouri;2003;10;1.71137
+Missouri;2003;11;3.47645
+Missouri;2003;12;2.77314
+Missouri;2004;1;1.82116
+Missouri;2004;2;0.98407
+Missouri;2004;3;4.05003
+Missouri;2004;4;3.39418
+Missouri;2004;5;4.43970
+Missouri;2004;6;3.17515
+Missouri;2004;7;4.55931
+Missouri;2004;8;4.41322
+Missouri;2004;9;0.97613
+Missouri;2004;10;4.35200
+Missouri;2004;11;4.80328
+Missouri;2004;12;1.06230
+Missouri;2005;1;4.15639
+Missouri;2005;2;2.26083
+Missouri;2005;3;1.35700
+Missouri;2005;4;2.98185
+Missouri;2005;5;1.93596
+Missouri;2005;6;3.77687
+Missouri;2005;7;2.36138
+Missouri;2005;8;5.04731
+Missouri;2005;9;3.37222
+Missouri;2005;10;1.93481
+Missouri;2005;11;2.34127
+Missouri;2005;12;0.73480
+Missouri;2006;1;1.73173
+Missouri;2006;2;0.46570
+Missouri;2006;3;3.32113
+Missouri;2006;4;3.45793
+Missouri;2006;5;3.30099
+Missouri;2006;6;2.49392
+Missouri;2006;7;3.04984
+Missouri;2006;8;4.02921
+Missouri;2006;9;2.43094
+Missouri;2006;10;3.18476
+Missouri;2006;11;3.88867
+Missouri;2006;12;1.81424
+Missouri;2007;1;2.29705
+Missouri;2007;2;2.16607
+Missouri;2007;3;2.41066
+Missouri;2007;4;3.20568
+Missouri;2007;5;4.62122
+Missouri;2007;6;4.93321
+Missouri;2007;7;1.71544
+Missouri;2007;8;3.01257
+Missouri;2007;9;3.08893
+Missouri;2007;10;3.15923
+Missouri;2007;11;1.02086
+Missouri;2007;12;3.31555
+Missouri;2008;1;1.40544
+Missouri;2008;2;3.86694
+Missouri;2008;3;6.40530
+Missouri;2008;4;5.14720
+Missouri;2008;5;4.92813
+Missouri;2008;6;6.24499
+Missouri;2008;7;5.54269
+Missouri;2008;8;2.33169
+Missouri;2008;9;7.17361
+Missouri;2008;10;2.23735
+Missouri;2008;11;1.40182
+Missouri;2008;12;2.58944
+Montana;2003;1;1.12817
+Montana;2003;2;1.01821
+Montana;2003;3;1.68833
+Montana;2003;4;1.75339
+Montana;2003;5;2.03964
+Montana;2003;6;1.92986
+Montana;2003;7;0.57876
+Montana;2003;8;0.72895
+Montana;2003;9;0.97511
+Montana;2003;10;1.17437
+Montana;2003;11;1.05863
+Montana;2003;12;1.09862
+Montana;2004;1;0.99691
+Montana;2004;2;0.65111
+Montana;2004;3;0.55485
+Montana;2004;4;0.98526
+Montana;2004;5;2.56905
+Montana;2004;6;1.81023
+Montana;2004;7;1.28312
+Montana;2004;8;1.47747
+Montana;2004;9;1.31123
+Montana;2004;10;1.28307
+Montana;2004;11;0.54037
+Montana;2004;12;0.77589
+Montana;2005;1;0.63712
+Montana;2005;2;0.24577
+Montana;2005;3;1.12512
+Montana;2005;4;1.72903
+Montana;2005;5;2.35494
+Montana;2005;6;4.05781
+Montana;2005;7;0.71332
+Montana;2005;8;1.14370
+Montana;2005;9;1.19876
+Montana;2005;10;1.49835
+Montana;2005;11;1.33429
+Montana;2005;12;0.97925
+Montana;2006;1;1.07444
+Montana;2006;2;0.87224
+Montana;2006;3;1.04341
+Montana;2006;4;2.33803
+Montana;2006;5;1.65363
+Montana;2006;6;2.11610
+Montana;2006;7;0.62870
+Montana;2006;8;0.86981
+Montana;2006;9;1.60592
+Montana;2006;10;1.52831
+Montana;2006;11;1.49674
+Montana;2006;12;0.77875
+Montana;2007;1;0.65358
+Montana;2007;2;1.31581
+Montana;2007;3;1.00982
+Montana;2007;4;1.58192
+Montana;2007;5;3.51923
+Montana;2007;6;1.84282
+Montana;2007;7;0.87068
+Montana;2007;8;0.73459
+Montana;2007;9;1.27053
+Montana;2007;10;1.38679
+Montana;2007;11;0.77434
+Montana;2007;12;0.65014
+Montana;2008;1;0.91302
+Montana;2008;2;0.89576
+Montana;2008;3;0.73657
+Montana;2008;4;0.84426
+Montana;2008;5;3.46723
+Montana;2008;6;2.40572
+Montana;2008;7;0.80240
+Montana;2008;8;1.08016
+Montana;2008;9;1.34040
+Montana;2008;10;1.10670
+Montana;2008;11;1.15756
+Montana;2008;12;1.24273
+Nebraska;2003;1;0.31316
+Nebraska;2003;2;0.61707
+Nebraska;2003;3;0.96832
+Nebraska;2003;4;2.95379
+Nebraska;2003;5;2.76121
+Nebraska;2003;6;3.67939
+Nebraska;2003;7;1.40844
+Nebraska;2003;8;1.27173
+Nebraska;2003;9;1.92889
+Nebraska;2003;10;0.59612
+Nebraska;2003;11;0.77007
+Nebraska;2003;12;0.29219
+Nebraska;2004;1;0.41385
+Nebraska;2004;2;1.03437
+Nebraska;2004;3;1.20162
+Nebraska;2004;4;1.52132
+Nebraska;2004;5;2.72973
+Nebraska;2004;6;2.54387
+Nebraska;2004;7;3.41071
+Nebraska;2004;8;1.26493
+Nebraska;2004;9;3.12124
+Nebraska;2004;10;0.85242
+Nebraska;2004;11;1.24459
+Nebraska;2004;12;0.08272
+Nebraska;2005;1;0.43298
+Nebraska;2005;2;0.73445
+Nebraska;2005;3;1.22148
+Nebraska;2005;4;2.72989
+Nebraska;2005;5;3.09067
+Nebraska;2005;6;4.54608
+Nebraska;2005;7;1.86839
+Nebraska;2005;8;2.74703
+Nebraska;2005;9;1.01004
+Nebraska;2005;10;1.27367
+Nebraska;2005;11;0.92332
+Nebraska;2005;12;0.28376
+Nebraska;2006;1;0.27348
+Nebraska;2006;2;0.16980
+Nebraska;2006;3;1.71431
+Nebraska;2006;4;1.96387
+Nebraska;2006;5;1.02616
+Nebraska;2006;6;2.78463
+Nebraska;2006;7;1.76346
+Nebraska;2006;8;3.25653
+Nebraska;2006;9;3.06081
+Nebraska;2006;10;0.89917
+Nebraska;2006;11;0.22481
+Nebraska;2006;12;1.69062
+Nebraska;2007;1;0.50382
+Nebraska;2007;2;0.90934
+Nebraska;2007;3;2.00030
+Nebraska;2007;4;3.14247
+Nebraska;2007;5;4.52523
+Nebraska;2007;6;2.39173
+Nebraska;2007;7;2.33140
+Nebraska;2007;8;3.79230
+Nebraska;2007;9;1.81324
+Nebraska;2007;10;2.47514
+Nebraska;2007;11;0.03908
+Nebraska;2007;12;1.24921
+Nebraska;2008;1;0.14904
+Nebraska;2008;2;0.33075
+Nebraska;2008;3;0.71938
+Nebraska;2008;4;2.40881
+Nebraska;2008;5;4.93193
+Nebraska;2008;6;3.66281
+Nebraska;2008;7;2.56749
+Nebraska;2008;8;1.93271
+Nebraska;2008;9;2.27037
+Nebraska;2008;10;3.57314
+Nebraska;2008;11;0.57934
+Nebraska;2008;12;0.44228
+Nevada;2003;1;0.40951
+Nevada;2003;2;0.90304
+Nevada;2003;3;0.60974
+Nevada;2003;4;1.28412
+Nevada;2003;5;0.74275
+Nevada;2003;6;0.08804
+Nevada;2003;7;0.40661
+Nevada;2003;8;0.82085
+Nevada;2003;9;0.27425
+Nevada;2003;10;0.09301
+Nevada;2003;11;0.72571
+Nevada;2003;12;1.15319
+Nevada;2004;1;0.35504
+Nevada;2004;2;1.33752
+Nevada;2004;3;0.30039
+Nevada;2004;4;0.77284
+Nevada;2004;5;0.47629
+Nevada;2004;6;0.25206
+Nevada;2004;7;0.31786
+Nevada;2004;8;0.53977
+Nevada;2004;9;0.40292
+Nevada;2004;10;1.71354
+Nevada;2004;11;1.21389
+Nevada;2004;12;1.10327
+Nevada;2005;1;1.86324
+Nevada;2005;2;1.36175
+Nevada;2005;3;1.04173
+Nevada;2005;4;1.15205
+Nevada;2005;5;1.54648
+Nevada;2005;6;0.45636
+Nevada;2005;7;0.36080
+Nevada;2005;8;0.53257
+Nevada;2005;9;0.34309
+Nevada;2005;10;0.72638
+Nevada;2005;11;0.60221
+Nevada;2005;12;1.61488
+Nevada;2006;1;1.17555
+Nevada;2006;2;0.64745
+Nevada;2006;3;1.23339
+Nevada;2006;4;1.40490
+Nevada;2006;5;0.40560
+Nevada;2006;6;0.32055
+Nevada;2006;7;0.63916
+Nevada;2006;8;0.03901
+Nevada;2006;9;0.20876
+Nevada;2006;10;0.69443
+Nevada;2006;11;0.43719
+Nevada;2006;12;0.47936
+Nevada;2007;1;0.29700
+Nevada;2007;2;0.98091
+Nevada;2007;3;0.44138
+Nevada;2007;4;0.81425
+Nevada;2007;5;0.23222
+Nevada;2007;6;0.34111
+Nevada;2007;7;0.34353
+Nevada;2007;8;0.41897
+Nevada;2007;9;0.55835
+Nevada;2007;10;0.43923
+Nevada;2007;11;0.28716
+Nevada;2007;12;1.30461
+Nevada;2008;1;1.14655
+Nevada;2008;2;0.90129
+Nevada;2008;3;0.27670
+Nevada;2008;4;0.19280
+Nevada;2008;5;0.80734
+Nevada;2008;6;0.19849
+Nevada;2008;7;0.30228
+Nevada;2008;8;0.23484
+Nevada;2008;9;0.13914
+Nevada;2008;10;0.26567
+Nevada;2008;11;0.81695
+Nevada;2008;12;0.75302
+New Hampshire;2003;1;1.64777
+New Hampshire;2003;2;2.44167
+New Hampshire;2003;3;2.58750
+New Hampshire;2003;4;2.47637
+New Hampshire;2003;5;3.78521
+New Hampshire;2003;6;2.33599
+New Hampshire;2003;7;2.64378
+New Hampshire;2003;8;5.15298
+New Hampshire;2003;9;4.53937
+New Hampshire;2003;10;5.09773
+New Hampshire;2003;11;3.18383
+New Hampshire;2003;12;5.37154
+New Hampshire;2004;1;0.72782
+New Hampshire;2004;2;1.24772
+New Hampshire;2004;3;1.99313
+New Hampshire;2004;4;4.41645
+New Hampshire;2004;5;4.53498
+New Hampshire;2004;6;2.23661
+New Hampshire;2004;7;3.94301
+New Hampshire;2004;8;4.74169
+New Hampshire;2004;9;3.85911
+New Hampshire;2004;10;1.55891
+New Hampshire;2004;11;3.32881
+New Hampshire;2004;12;3.64328
+New Hampshire;2005;1;2.57317
+New Hampshire;2005;2;2.55198
+New Hampshire;2005;3;3.35294
+New Hampshire;2005;4;5.22881
+New Hampshire;2005;5;4.14647
+New Hampshire;2005;6;4.38815
+New Hampshire;2005;7;3.47375
+New Hampshire;2005;8;4.00157
+New Hampshire;2005;9;2.34688
+New Hampshire;2005;10;11.27951
+New Hampshire;2005;11;5.09724
+New Hampshire;2005;12;3.51567
+New Hampshire;2006;1;3.65680
+New Hampshire;2006;2;2.17638
+New Hampshire;2006;3;1.18660
+New Hampshire;2006;4;2.56786
+New Hampshire;2006;5;7.57262
+New Hampshire;2006;6;7.68613
+New Hampshire;2006;7;4.43504
+New Hampshire;2006;8;3.47703
+New Hampshire;2006;9;2.06813
+New Hampshire;2006;10;6.21480
+New Hampshire;2006;11;3.80522
+New Hampshire;2006;12;2.81273
+New Hampshire;2007;1;2.43829
+New Hampshire;2007;2;1.72472
+New Hampshire;2007;3;2.87367
+New Hampshire;2007;4;5.89913
+New Hampshire;2007;5;2.74873
+New Hampshire;2007;6;2.59849
+New Hampshire;2007;7;3.67594
+New Hampshire;2007;8;2.27991
+New Hampshire;2007;9;2.76063
+New Hampshire;2007;10;3.89357
+New Hampshire;2007;11;3.06379
+New Hampshire;2007;12;3.01175
+New Hampshire;2008;1;2.00161
+New Hampshire;2008;2;6.59940
+New Hampshire;2008;3;4.21048
+New Hampshire;2008;4;3.08575
+New Hampshire;2008;5;1.07028
+New Hampshire;2008;6;4.70895
+New Hampshire;2008;7;6.45987
+New Hampshire;2008;8;4.55369
+New Hampshire;2008;9;5.32500
+New Hampshire;2008;10;2.97392
+New Hampshire;2008;11;4.13190
+New Hampshire;2008;12;4.94770
+New Jersey;2003;1;1.97528
+New Jersey;2003;2;4.79014
+New Jersey;2003;3;3.43944
+New Jersey;2003;4;2.46797
+New Jersey;2003;5;3.49675
+New Jersey;2003;6;6.84128
+New Jersey;2003;7;3.12413
+New Jersey;2003;8;4.49665
+New Jersey;2003;9;5.58629
+New Jersey;2003;10;4.26372
+New Jersey;2003;11;3.84822
+New Jersey;2003;12;5.09095
+New Jersey;2004;1;1.61557
+New Jersey;2004;2;2.24817
+New Jersey;2004;3;2.66527
+New Jersey;2004;4;4.53995
+New Jersey;2004;5;3.15843
+New Jersey;2004;6;2.30103
+New Jersey;2004;7;6.04247
+New Jersey;2004;8;4.01722
+New Jersey;2004;9;5.40827
+New Jersey;2004;10;1.64225
+New Jersey;2004;11;3.98075
+New Jersey;2004;12;2.82964
+New Jersey;2005;1;3.67315
+New Jersey;2005;2;2.49774
+New Jersey;2005;3;3.25246
+New Jersey;2005;4;4.16366
+New Jersey;2005;5;1.81671
+New Jersey;2005;6;3.21002
+New Jersey;2005;7;3.55076
+New Jersey;2005;8;2.04421
+New Jersey;2005;9;0.97466
+New Jersey;2005;10;9.91741
+New Jersey;2005;11;3.38271
+New Jersey;2005;12;3.18717
+New Jersey;2006;1;4.30276
+New Jersey;2006;2;1.86617
+New Jersey;2006;3;0.67805
+New Jersey;2006;4;3.04995
+New Jersey;2006;5;2.53051
+New Jersey;2006;6;6.38283
+New Jersey;2006;7;4.04458
+New Jersey;2006;8;2.86859
+New Jersey;2006;9;4.83336
+New Jersey;2006;10;5.22896
+New Jersey;2006;11;5.01737
+New Jersey;2006;12;1.80208
+New Jersey;2007;1;2.98026
+New Jersey;2007;2;1.75787
+New Jersey;2007;3;3.51887
+New Jersey;2007;4;7.60506
+New Jersey;2007;5;1.30444
+New Jersey;2007;6;3.80323
+New Jersey;2007;7;3.66107
+New Jersey;2007;8;3.73939
+New Jersey;2007;9;0.81461
+New Jersey;2007;10;4.72100
+New Jersey;2007;11;1.99466
+New Jersey;2007;12;2.96891
+New Jersey;2008;1;1.72559
+New Jersey;2008;2;4.94117
+New Jersey;2008;3;3.51683
+New Jersey;2008;4;2.39852
+New Jersey;2008;5;3.72855
+New Jersey;2008;6;2.43203
+New Jersey;2008;7;3.75023
+New Jersey;2008;8;2.17963
+New Jersey;2008;9;5.35900
+New Jersey;2008;10;2.36403
+New Jersey;2008;11;3.63737
+New Jersey;2008;12;5.30631
+New Mexico;2003;1;0.06253
+New Mexico;2003;2;1.06477
+New Mexico;2003;3;0.61513
+New Mexico;2003;4;0.15439
+New Mexico;2003;5;0.57934
+New Mexico;2003;6;1.21322
+New Mexico;2003;7;0.74821
+New Mexico;2003;8;1.54120
+New Mexico;2003;9;0.89832
+New Mexico;2003;10;0.86922
+New Mexico;2003;11;0.71503
+New Mexico;2003;12;0.20700
+New Mexico;2004;1;0.40979
+New Mexico;2004;2;0.92909
+New Mexico;2004;3;0.59626
+New Mexico;2004;4;2.25181
+New Mexico;2004;5;0.13707
+New Mexico;2004;6;1.00714
+New Mexico;2004;7;2.06090
+New Mexico;2004;8;1.89358
+New Mexico;2004;9;1.97076
+New Mexico;2004;10;1.51716
+New Mexico;2004;11;1.62957
+New Mexico;2004;12;0.68586
+New Mexico;2005;1;1.34373
+New Mexico;2005;2;1.63887
+New Mexico;2005;3;1.03187
+New Mexico;2005;4;0.66944
+New Mexico;2005;5;1.19075
+New Mexico;2005;6;0.42140
+New Mexico;2005;7;0.93939
+New Mexico;2005;8;2.43893
+New Mexico;2005;9;1.40597
+New Mexico;2005;10;1.08590
+New Mexico;2005;11;0.05727
+New Mexico;2005;12;0.05683
+New Mexico;2006;1;0.14740
+New Mexico;2006;2;0.12256
+New Mexico;2006;3;0.50538
+New Mexico;2006;4;0.30951
+New Mexico;2006;5;0.32325
+New Mexico;2006;6;0.84125
+New Mexico;2006;7;2.60486
+New Mexico;2006;8;3.92206
+New Mexico;2006;9;1.89214
+New Mexico;2006;10;1.53828
+New Mexico;2006;11;0.17375
+New Mexico;2006;12;0.77524
+New Mexico;2007;1;0.64091
+New Mexico;2007;2;0.35610
+New Mexico;2007;3;0.89816
+New Mexico;2007;4;0.61348
+New Mexico;2007;5;1.76579
+New Mexico;2007;6;1.05489
+New Mexico;2007;7;1.93372
+New Mexico;2007;8;1.57136
+New Mexico;2007;9;1.53927
+New Mexico;2007;10;0.20281
+New Mexico;2007;11;0.18902
+New Mexico;2007;12;1.17903
+New Mexico;2008;1;0.43208
+New Mexico;2008;2;0.38782
+New Mexico;2008;3;0.12873
+New Mexico;2008;4;0.15756
+New Mexico;2008;5;0.81955
+New Mexico;2008;6;0.58253
+New Mexico;2008;7;3.26504
+New Mexico;2008;8;2.55028
+New Mexico;2008;9;0.97270
+New Mexico;2008;10;1.15255
+New Mexico;2008;11;0.39192
+New Mexico;2008;12;0.58218
+New York;2003;1;1.83257
+New York;2003;2;2.33843
+New York;2003;3;2.35758
+New York;2003;4;2.25534
+New York;2003;5;4.23140
+New York;2003;6;3.11309
+New York;2003;7;3.78287
+New York;2003;8;4.10351
+New York;2003;9;4.77451
+New York;2003;10;4.37599
+New York;2003;11;3.71175
+New York;2003;12;3.67168
+New York;2004;1;1.81149
+New York;2004;2;1.32456
+New York;2004;3;2.05733
+New York;2004;4;3.14734
+New York;2004;5;4.70050
+New York;2004;6;2.30937
+New York;2004;7;5.44165
+New York;2004;8;4.71962
+New York;2004;9;4.59665
+New York;2004;10;1.82919
+New York;2004;11;2.80296
+New York;2004;12;3.63447
+New York;2005;1;3.19508
+New York;2005;2;2.03345
+New York;2005;3;2.20811
+New York;2005;4;4.35304
+New York;2005;5;1.11652
+New York;2005;6;3.05491
+New York;2005;7;3.52127
+New York;2005;8;3.89825
+New York;2005;9;2.78103
+New York;2005;10;6.82871
+New York;2005;11;4.16770
+New York;2005;12;2.34361
+New York;2006;1;3.41539
+New York;2006;2;1.74930
+New York;2006;3;1.42489
+New York;2006;4;2.87716
+New York;2006;5;3.20281
+New York;2006;6;5.93964
+New York;2006;7;4.33407
+New York;2006;8;3.64587
+New York;2006;9;3.71931
+New York;2006;10;5.21727
+New York;2006;11;3.16355
+New York;2006;12;2.60418
+New York;2007;1;3.25126
+New York;2007;2;2.17392
+New York;2007;3;3.17100
+New York;2007;4;4.20444
+New York;2007;5;1.67176
+New York;2007;6;2.64967
+New York;2007;7;3.83163
+New York;2007;8;2.19718
+New York;2007;9;2.79667
+New York;2007;10;4.37360
+New York;2007;11;3.40942
+New York;2007;12;2.97168
+New York;2008;1;1.84828
+New York;2008;2;4.78927
+New York;2008;3;4.41854
+New York;2008;4;2.38024
+New York;2008;5;2.01052
+New York;2008;6;3.55646
+New York;2008;7;4.92797
+New York;2008;8;3.54938
+New York;2008;9;3.04422
+New York;2008;10;3.80960
+New York;2008;11;2.74981
+New York;2008;12;4.49369
+North Carolina;2003;1;1.58015
+North Carolina;2003;2;4.46018
+North Carolina;2003;3;4.72110
+North Carolina;2003;4;5.49084
+North Carolina;2003;5;6.10377
+North Carolina;2003;6;4.63096
+North Carolina;2003;7;6.35713
+North Carolina;2003;8;5.56170
+North Carolina;2003;9;4.39055
+North Carolina;2003;10;2.83940
+North Carolina;2003;11;2.41062
+North Carolina;2003;12;3.26856
+North Carolina;2004;1;1.25501
+North Carolina;2004;2;3.29395
+North Carolina;2004;3;1.64877
+North Carolina;2004;4;2.43505
+North Carolina;2004;5;3.38165
+North Carolina;2004;6;4.65870
+North Carolina;2004;7;4.06286
+North Carolina;2004;8;5.90264
+North Carolina;2004;9;6.56923
+North Carolina;2004;10;1.44327
+North Carolina;2004;11;3.47330
+North Carolina;2004;12;2.19210
+North Carolina;2005;1;2.03185
+North Carolina;2005;2;2.54074
+North Carolina;2005;3;3.30006
+North Carolina;2005;4;2.81381
+North Carolina;2005;5;2.84995
+North Carolina;2005;6;4.35664
+North Carolina;2005;7;5.52353
+North Carolina;2005;8;3.21414
+North Carolina;2005;9;1.70680
+North Carolina;2005;10;4.55430
+North Carolina;2005;11;3.07603
+North Carolina;2005;12;3.50246
+North Carolina;2006;1;2.69768
+North Carolina;2006;2;1.57757
+North Carolina;2006;3;1.18224
+North Carolina;2006;4;3.21542
+North Carolina;2006;5;2.82498
+North Carolina;2006;6;6.52650
+North Carolina;2006;7;3.84736
+North Carolina;2006;8;5.27858
+North Carolina;2006;9;4.56006
+North Carolina;2006;10;3.33908
+North Carolina;2006;11;5.53337
+North Carolina;2006;12;2.90106
+North Carolina;2007;1;2.71645
+North Carolina;2007;2;2.00257
+North Carolina;2007;3;2.45570
+North Carolina;2007;4;2.86565
+North Carolina;2007;5;1.30721
+North Carolina;2007;6;3.57628
+North Carolina;2007;7;3.13440
+North Carolina;2007;8;1.76166
+North Carolina;2007;9;1.70948
+North Carolina;2007;10;3.49861
+North Carolina;2007;11;0.70596
+North Carolina;2007;12;2.24762
+North Carolina;2008;1;1.53599
+North Carolina;2008;2;3.40459
+North Carolina;2008;3;3.30213
+North Carolina;2008;4;4.04010
+North Carolina;2008;5;2.46813
+North Carolina;2008;6;2.05342
+North Carolina;2008;7;4.75127
+North Carolina;2008;8;4.30313
+North Carolina;2008;9;4.68394
+North Carolina;2008;10;1.48555
+North Carolina;2008;11;3.09161
+North Carolina;2008;12;3.23006
+North Dakota;2003;1;0.25312
+North Dakota;2003;2;0.15118
+North Dakota;2003;3;0.65594
+North Dakota;2003;4;0.93675
+North Dakota;2003;5;3.36118
+North Dakota;2003;6;2.95460
+North Dakota;2003;7;1.68415
+North Dakota;2003;8;1.00923
+North Dakota;2003;9;1.45216
+North Dakota;2003;10;0.49313
+North Dakota;2003;11;0.38952
+North Dakota;2003;12;0.38986
+North Dakota;2004;1;0.56061
+North Dakota;2004;2;0.20387
+North Dakota;2004;3;1.17898
+North Dakota;2004;4;0.63364
+North Dakota;2004;5;3.28932
+North Dakota;2004;6;1.79347
+North Dakota;2004;7;1.98550
+North Dakota;2004;8;1.59022
+North Dakota;2004;9;1.97315
+North Dakota;2004;10;1.36191
+North Dakota;2004;11;0.10170
+North Dakota;2004;12;0.28510
+North Dakota;2005;1;0.50087
+North Dakota;2005;2;0.10425
+North Dakota;2005;3;0.42186
+North Dakota;2005;4;0.52437
+North Dakota;2005;5;3.00938
+North Dakota;2005;6;6.34467
+North Dakota;2005;7;1.99000
+North Dakota;2005;8;2.12733
+North Dakota;2005;9;0.71551
+North Dakota;2005;10;1.17837
+North Dakota;2005;11;0.96679
+North Dakota;2005;12;0.40648
+North Dakota;2006;1;0.23318
+North Dakota;2006;2;0.25571
+North Dakota;2006;3;0.74195
+North Dakota;2006;4;1.40606
+North Dakota;2006;5;1.44773
+North Dakota;2006;6;1.55688
+North Dakota;2006;7;0.97425
+North Dakota;2006;8;2.29024
+North Dakota;2006;9;1.62812
+North Dakota;2006;10;0.81287
+North Dakota;2006;11;0.14232
+North Dakota;2006;12;0.50788
+North Dakota;2007;1;0.17266
+North Dakota;2007;2;0.61639
+North Dakota;2007;3;1.24125
+North Dakota;2007;4;0.83015
+North Dakota;2007;5;4.63193
+North Dakota;2007;6;3.29909
+North Dakota;2007;7;1.90770
+North Dakota;2007;8;1.61920
+North Dakota;2007;9;1.12580
+North Dakota;2007;10;0.88541
+North Dakota;2007;11;0.19781
+North Dakota;2007;12;0.24622
+North Dakota;2008;1;0.07185
+North Dakota;2008;2;0.26721
+North Dakota;2008;3;0.28891
+North Dakota;2008;4;0.64601
+North Dakota;2008;5;1.38160
+North Dakota;2008;6;3.59269
+North Dakota;2008;7;2.10172
+North Dakota;2008;8;2.14880
+North Dakota;2008;9;2.23198
+North Dakota;2008;10;2.06947
+North Dakota;2008;11;1.29998
+North Dakota;2008;12;0.90448
+Ohio;2003;1;0.95598
+Ohio;2003;2;2.15959
+Ohio;2003;3;1.78748
+Ohio;2003;4;2.16818
+Ohio;2003;5;5.46195
+Ohio;2003;6;3.06770
+Ohio;2003;7;5.53603
+Ohio;2003;8;3.88800
+Ohio;2003;9;4.93655
+Ohio;2003;10;1.91503
+Ohio;2003;11;2.99913
+Ohio;2003;12;2.12832
+Ohio;2004;1;2.62109
+Ohio;2004;2;1.13370
+Ohio;2004;3;2.76781
+Ohio;2004;4;2.39998
+Ohio;2004;5;5.47145
+Ohio;2004;6;3.29918
+Ohio;2004;7;3.69600
+Ohio;2004;8;3.13580
+Ohio;2004;9;3.54351
+Ohio;2004;10;2.23397
+Ohio;2004;11;3.16204
+Ohio;2004;12;2.33557
+Ohio;2005;1;5.37967
+Ohio;2005;2;1.81063
+Ohio;2005;3;1.85820
+Ohio;2005;4;3.65859
+Ohio;2005;5;2.06891
+Ohio;2005;6;1.95823
+Ohio;2005;7;3.21278
+Ohio;2005;8;3.97035
+Ohio;2005;9;2.66056
+Ohio;2005;10;2.07963
+Ohio;2005;11;2.86160
+Ohio;2005;12;1.39480
+Ohio;2006;1;2.58575
+Ohio;2006;2;1.46546
+Ohio;2006;3;2.25566
+Ohio;2006;4;2.73620
+Ohio;2006;5;3.52697
+Ohio;2006;6;3.80403
+Ohio;2006;7;4.46071
+Ohio;2006;8;2.44721
+Ohio;2006;9;3.97844
+Ohio;2006;10;4.26031
+Ohio;2006;11;2.10215
+Ohio;2006;12;2.48593
+Ohio;2007;1;3.20707
+Ohio;2007;2;1.62625
+Ohio;2007;3;3.41397
+Ohio;2007;4;2.77618
+Ohio;2007;5;1.36180
+Ohio;2007;6;2.34072
+Ohio;2007;7;2.88039
+Ohio;2007;8;4.72362
+Ohio;2007;9;2.07469
+Ohio;2007;10;2.59496
+Ohio;2007;11;2.62794
+Ohio;2007;12;3.24867
+Ohio;2008;1;1.82851
+Ohio;2008;2;4.26979
+Ohio;2008;3;5.00883
+Ohio;2008;4;2.10189
+Ohio;2008;5;3.75415
+Ohio;2008;6;5.34108
+Ohio;2008;7;3.09242
+Ohio;2008;8;1.58559
+Ohio;2008;9;2.03535
+Ohio;2008;10;1.48851
+Ohio;2008;11;2.19604
+Ohio;2008;12;3.47795
+Oklahoma;2003;1;0.07191
+Oklahoma;2003;2;1.60024
+Oklahoma;2003;3;1.63609
+Oklahoma;2003;4;1.67735
+Oklahoma;2003;5;3.21327
+Oklahoma;2003;6;4.53740
+Oklahoma;2003;7;0.81242
+Oklahoma;2003;8;3.89643
+Oklahoma;2003;9;2.46659
+Oklahoma;2003;10;1.30462
+Oklahoma;2003;11;1.64306
+Oklahoma;2003;12;1.02437
+Oklahoma;2004;1;1.79640
+Oklahoma;2004;2;1.66567
+Oklahoma;2004;3;3.08434
+Oklahoma;2004;4;3.33476
+Oklahoma;2004;5;1.05122
+Oklahoma;2004;6;5.87952
+Oklahoma;2004;7;3.63255
+Oklahoma;2004;8;2.43426
+Oklahoma;2004;9;1.08654
+Oklahoma;2004;10;4.41927
+Oklahoma;2004;11;4.55746
+Oklahoma;2004;12;0.63157
+Oklahoma;2005;1;2.87190
+Oklahoma;2005;2;1.44077
+Oklahoma;2005;3;1.03768
+Oklahoma;2005;4;1.11493
+Oklahoma;2005;5;2.40242
+Oklahoma;2005;6;3.65066
+Oklahoma;2005;7;2.56115
+Oklahoma;2005;8;4.37809
+Oklahoma;2005;9;1.96170
+Oklahoma;2005;10;1.73005
+Oklahoma;2005;11;0.18944
+Oklahoma;2005;12;0.21729
+Oklahoma;2006;1;0.82496
+Oklahoma;2006;2;0.28985
+Oklahoma;2006;3;2.49558
+Oklahoma;2006;4;2.87586
+Oklahoma;2006;5;2.79090
+Oklahoma;2006;6;2.20950
+Oklahoma;2006;7;1.59711
+Oklahoma;2006;8;2.88538
+Oklahoma;2006;9;2.06587
+Oklahoma;2006;10;2.30102
+Oklahoma;2006;11;2.33945
+Oklahoma;2006;12;2.86396
+Oklahoma;2007;1;2.16229
+Oklahoma;2007;2;0.82996
+Oklahoma;2007;3;3.43046
+Oklahoma;2007;4;2.43472
+Oklahoma;2007;5;5.68907
+Oklahoma;2007;6;8.09471
+Oklahoma;2007;7;3.64973
+Oklahoma;2007;8;2.81656
+Oklahoma;2007;9;2.73393
+Oklahoma;2007;10;2.47734
+Oklahoma;2007;11;0.41636
+Oklahoma;2007;12;2.13206
+Oklahoma;2008;1;0.50351
+Oklahoma;2008;2;2.05886
+Oklahoma;2008;3;4.00922
+Oklahoma;2008;4;3.66971
+Oklahoma;2008;5;4.00892
+Oklahoma;2008;6;5.09855
+Oklahoma;2008;7;2.09948
+Oklahoma;2008;8;3.82638
+Oklahoma;2008;9;3.08849
+Oklahoma;2008;10;2.46111
+Oklahoma;2008;11;0.87152
+Oklahoma;2008;12;0.81535
+Oregon;2003;1;4.10768
+Oregon;2003;2;1.88163
+Oregon;2003;3;3.95745
+Oregon;2003;4;3.09657
+Oregon;2003;5;1.46338
+Oregon;2003;6;0.19476
+Oregon;2003;7;0.20637
+Oregon;2003;8;0.43798
+Oregon;2003;9;0.87173
+Oregon;2003;10;1.00328
+Oregon;2003;11;3.05766
+Oregon;2003;12;5.33037
+Oregon;2004;1;4.12042
+Oregon;2004;2;3.22077
+Oregon;2004;3;1.32280
+Oregon;2004;4;1.51086
+Oregon;2004;5;2.28611
+Oregon;2004;6;1.20419
+Oregon;2004;7;0.22456
+Oregon;2004;8;1.43152
+Oregon;2004;9;1.09543
+Oregon;2004;10;2.62463
+Oregon;2004;11;1.37254
+Oregon;2004;12;3.50071
+Oregon;2005;1;1.59459
+Oregon;2005;2;0.94334
+Oregon;2005;3;2.77896
+Oregon;2005;4;2.58886
+Oregon;2005;5;3.85722
+Oregon;2005;6;1.35428
+Oregon;2005;7;0.33532
+Oregon;2005;8;0.07676
+Oregon;2005;9;0.60333
+Oregon;2005;10;1.91718
+Oregon;2005;11;4.31951
+Oregon;2005;12;6.60878
+Oregon;2006;1;6.53989
+Oregon;2006;2;1.91540
+Oregon;2006;3;2.82377
+Oregon;2006;4;2.12359
+Oregon;2006;5;1.64976
+Oregon;2006;6;1.41255
+Oregon;2006;7;0.16511
+Oregon;2006;8;0.15107
+Oregon;2006;9;0.54615
+Oregon;2006;10;0.75803
+Oregon;2006;11;6.62163
+Oregon;2006;12;4.48216
+Oregon;2007;1;2.03065
+Oregon;2007;2;3.83031
+Oregon;2007;3;1.60706
+Oregon;2007;4;1.76227
+Oregon;2007;5;0.75901
+Oregon;2007;6;0.99684
+Oregon;2007;7;0.42594
+Oregon;2007;8;0.53152
+Oregon;2007;9;1.08023
+Oregon;2007;10;2.82585
+Oregon;2007;11;2.75820
+Oregon;2007;12;3.64045
+Oregon;2008;1;4.62280
+Oregon;2008;2;1.87178
+Oregon;2008;3;2.64367
+Oregon;2008;4;1.56296
+Oregon;2008;5;1.65012
+Oregon;2008;6;0.81046
+Oregon;2008;7;0.11061
+Oregon;2008;8;0.56430
+Oregon;2008;9;0.24612
+Oregon;2008;10;1.11947
+Oregon;2008;11;2.62250
+Oregon;2008;12;4.35064
+Pennsylvania;2003;1;1.71824
+Pennsylvania;2003;2;3.09793
+Pennsylvania;2003;3;2.32901
+Pennsylvania;2003;4;2.25466
+Pennsylvania;2003;5;4.48303
+Pennsylvania;2003;6;4.60811
+Pennsylvania;2003;7;4.67141
+Pennsylvania;2003;8;4.55120
+Pennsylvania;2003;9;6.08654
+Pennsylvania;2003;10;3.36091
+Pennsylvania;2003;11;3.54149
+Pennsylvania;2003;12;3.35293
+Pennsylvania;2004;1;2.50250
+Pennsylvania;2004;2;1.83624
+Pennsylvania;2004;3;2.31822
+Pennsylvania;2004;4;3.82297
+Pennsylvania;2004;5;4.55125
+Pennsylvania;2004;6;3.35264
+Pennsylvania;2004;7;6.03566
+Pennsylvania;2004;8;3.94858
+Pennsylvania;2004;9;7.49400
+Pennsylvania;2004;10;2.10649
+Pennsylvania;2004;11;2.94515
+Pennsylvania;2004;12;2.82753
+Pennsylvania;2005;1;4.46823
+Pennsylvania;2005;2;2.28364
+Pennsylvania;2005;3;2.69080
+Pennsylvania;2005;4;3.14448
+Pennsylvania;2005;5;1.56547
+Pennsylvania;2005;6;2.30683
+Pennsylvania;2005;7;3.37228
+Pennsylvania;2005;8;2.96413
+Pennsylvania;2005;9;1.33809
+Pennsylvania;2005;10;5.17308
+Pennsylvania;2005;11;3.52547
+Pennsylvania;2005;12;1.97849
+Pennsylvania;2006;1;3.43910
+Pennsylvania;2006;2;1.54253
+Pennsylvania;2006;3;1.21980
+Pennsylvania;2006;4;2.81517
+Pennsylvania;2006;5;2.65928
+Pennsylvania;2006;6;6.13438
+Pennsylvania;2006;7;4.02639
+Pennsylvania;2006;8;3.21781
+Pennsylvania;2006;9;4.27891
+Pennsylvania;2006;10;4.28460
+Pennsylvania;2006;11;3.01737
+Pennsylvania;2006;12;1.77547
+Pennsylvania;2007;1;2.85653
+Pennsylvania;2007;2;1.90586
+Pennsylvania;2007;3;3.35257
+Pennsylvania;2007;4;3.49862
+Pennsylvania;2007;5;1.68379
+Pennsylvania;2007;6;3.05784
+Pennsylvania;2007;7;2.69288
+Pennsylvania;2007;8;4.64975
+Pennsylvania;2007;9;1.65888
+Pennsylvania;2007;10;3.07826
+Pennsylvania;2007;11;3.26785
+Pennsylvania;2007;12;3.10742
+Pennsylvania;2008;1;1.66570
+Pennsylvania;2008;2;4.55234
+Pennsylvania;2008;3;4.35613
+Pennsylvania;2008;4;2.46898
+Pennsylvania;2008;5;3.47463
+Pennsylvania;2008;6;3.39390
+Pennsylvania;2008;7;3.99413
+Pennsylvania;2008;8;2.37010
+Pennsylvania;2008;9;3.61048
+Pennsylvania;2008;10;2.18290
+Pennsylvania;2008;11;2.36109
+Pennsylvania;2008;12;4.58405
+Rhode Island;2003;1;1.70000
+Rhode Island;2003;2;3.52879
+Rhode Island;2003;3;4.22681
+Rhode Island;2003;4;3.92437
+Rhode Island;2003;5;3.01452
+Rhode Island;2003;6;5.45667
+Rhode Island;2003;7;3.21351
+Rhode Island;2003;8;3.88266
+Rhode Island;2003;9;3.91583
+Rhode Island;2003;10;4.85968
+Rhode Island;2003;11;1.95333
+Rhode Island;2003;12;4.55625
+Rhode Island;2004;1;1.30907
+Rhode Island;2004;2;2.05647
+Rhode Island;2004;3;2.79032
+Rhode Island;2004;4;5.91875
+Rhode Island;2004;5;2.36452
+Rhode Island;2004;6;1.51771
+Rhode Island;2004;7;2.71976
+Rhode Island;2004;8;5.10242
+Rhode Island;2004;9;6.37979
+Rhode Island;2004;10;1.95060
+Rhode Island;2004;11;4.03750
+Rhode Island;2004;12;4.16371
+Rhode Island;2005;1;3.80827
+Rhode Island;2005;2;2.59196
+Rhode Island;2005;3;3.99335
+Rhode Island;2005;4;4.95083
+Rhode Island;2005;5;2.83347
+Rhode Island;2005;6;1.04792
+Rhode Island;2005;7;1.68085
+Rhode Island;2005;8;3.05585
+Rhode Island;2005;9;2.83688
+Rhode Island;2005;10;11.76452
+Rhode Island;2005;11;4.81125
+Rhode Island;2005;12;3.27782
+Rhode Island;2006;1;4.53730
+Rhode Island;2006;2;2.51786
+Rhode Island;2006;3;0.45887
+Rhode Island;2006;4;2.33854
+Rhode Island;2006;5;6.17520
+Rhode Island;2006;6;8.82542
+Rhode Island;2006;7;2.25504
+Rhode Island;2006;8;3.84536
+Rhode Island;2006;9;2.21979
+Rhode Island;2006;10;5.77883
+Rhode Island;2006;11;5.72146
+Rhode Island;2006;12;1.85827
+Rhode Island;2007;1;2.81935
+Rhode Island;2007;2;1.97143
+Rhode Island;2007;3;4.83770
+Rhode Island;2007;4;6.51333
+Rhode Island;2007;5;1.99335
+Rhode Island;2007;6;2.70312
+Rhode Island;2007;7;2.11431
+Rhode Island;2007;8;1.04093
+Rhode Island;2007;9;2.10229
+Rhode Island;2007;10;1.91270
+Rhode Island;2007;11;2.37062
+Rhode Island;2007;12;3.38810
+Rhode Island;2008;1;2.32702
+Rhode Island;2008;2;6.10539
+Rhode Island;2008;3;4.84818
+Rhode Island;2008;4;3.28875
+Rhode Island;2008;5;1.90363
+Rhode Island;2008;6;2.17354
+Rhode Island;2008;7;4.18367
+Rhode Island;2008;8;2.82560
+Rhode Island;2008;9;7.72958
+Rhode Island;2008;10;1.63145
+Rhode Island;2008;11;3.94396
+Rhode Island;2008;12;5.79294
+South Carolina;2003;1;1.30937
+South Carolina;2003;2;3.81312
+South Carolina;2003;3;5.97845
+South Carolina;2003;4;5.30731
+South Carolina;2003;5;4.73933
+South Carolina;2003;6;5.66635
+South Carolina;2003;7;7.12528
+South Carolina;2003;8;4.19488
+South Carolina;2003;9;2.71639
+South Carolina;2003;10;3.03868
+South Carolina;2003;11;1.38904
+South Carolina;2003;12;2.04959
+South Carolina;2004;1;1.39445
+South Carolina;2004;2;4.41768
+South Carolina;2004;3;0.78857
+South Carolina;2004;4;1.63729
+South Carolina;2004;5;2.37350
+South Carolina;2004;6;5.31526
+South Carolina;2004;7;3.85735
+South Carolina;2004;8;5.67577
+South Carolina;2004;9;6.78966
+South Carolina;2004;10;1.24416
+South Carolina;2004;11;2.66032
+South Carolina;2004;12;1.93260
+South Carolina;2005;1;1.72222
+South Carolina;2005;2;3.62351
+South Carolina;2005;3;4.22515
+South Carolina;2005;4;2.46853
+South Carolina;2005;5;3.09671
+South Carolina;2005;6;6.25585
+South Carolina;2005;7;5.73006
+South Carolina;2005;8;4.04995
+South Carolina;2005;9;0.56658
+South Carolina;2005;10;3.95920
+South Carolina;2005;11;2.56974
+South Carolina;2005;12;3.51047
+South Carolina;2006;1;2.88057
+South Carolina;2006;2;2.62828
+South Carolina;2006;3;1.05720
+South Carolina;2006;4;2.14765
+South Carolina;2006;5;2.30954
+South Carolina;2006;6;6.00505
+South Carolina;2006;7;2.60156
+South Carolina;2006;8;5.49044
+South Carolina;2006;9;3.15966
+South Carolina;2006;10;2.50601
+South Carolina;2006;11;4.43652
+South Carolina;2006;12;3.17188
+South Carolina;2007;1;2.93296
+South Carolina;2007;2;2.36393
+South Carolina;2007;3;2.16160
+South Carolina;2007;4;2.32801
+South Carolina;2007;5;1.28622
+South Carolina;2007;6;4.66008
+South Carolina;2007;7;3.12355
+South Carolina;2007;8;2.59756
+South Carolina;2007;9;1.91191
+South Carolina;2007;10;2.21931
+South Carolina;2007;11;0.35348
+South Carolina;2007;12;3.02768
+South Carolina;2008;1;2.45317
+South Carolina;2008;2;3.59186
+South Carolina;2008;3;2.97742
+South Carolina;2008;4;2.74938
+South Carolina;2008;5;2.47559
+South Carolina;2008;6;2.07960
+South Carolina;2008;7;4.17600
+South Carolina;2008;8;4.94179
+South Carolina;2008;9;3.63863
+South Carolina;2008;10;3.67666
+South Carolina;2008;11;3.54939
+South Carolina;2008;12;2.33069
+South Dakota;2003;1;0.26991
+South Dakota;2003;2;0.44527
+South Dakota;2003;3;0.74545
+South Dakota;2003;4;1.92466
+South Dakota;2003;5;2.25201
+South Dakota;2003;6;2.84410
+South Dakota;2003;7;1.32488
+South Dakota;2003;8;0.97410
+South Dakota;2003;9;1.54790
+South Dakota;2003;10;0.64294
+South Dakota;2003;11;0.51106
+South Dakota;2003;12;0.21806
+South Dakota;2004;1;0.20091
+South Dakota;2004;2;0.44943
+South Dakota;2004;3;0.98095
+South Dakota;2004;4;0.72189
+South Dakota;2004;5;2.93114
+South Dakota;2004;6;2.15105
+South Dakota;2004;7;2.22065
+South Dakota;2004;8;1.53655
+South Dakota;2004;9;3.31780
+South Dakota;2004;10;1.57732
+South Dakota;2004;11;0.26098
+South Dakota;2004;12;0.07284
+South Dakota;2005;1;0.30101
+South Dakota;2005;2;0.28066
+South Dakota;2005;3;0.53581
+South Dakota;2005;4;1.72484
+South Dakota;2005;5;2.99096
+South Dakota;2005;6;4.28132
+South Dakota;2005;7;1.49752
+South Dakota;2005;8;1.59052
+South Dakota;2005;9;1.88521
+South Dakota;2005;10;0.73272
+South Dakota;2005;11;1.00152
+South Dakota;2005;12;0.50724
+South Dakota;2006;1;0.26147
+South Dakota;2006;2;0.17952
+South Dakota;2006;3;1.20628
+South Dakota;2006;4;1.97999
+South Dakota;2006;5;0.96699
+South Dakota;2006;6;1.53173
+South Dakota;2006;7;0.74301
+South Dakota;2006;8;2.73873
+South Dakota;2006;9;2.74890
+South Dakota;2006;10;0.35548
+South Dakota;2006;11;0.31336
+South Dakota;2006;12;0.71062
+South Dakota;2007;1;0.18116
+South Dakota;2007;2;0.85287
+South Dakota;2007;3;1.77037
+South Dakota;2007;4;1.70194
+South Dakota;2007;5;3.76153
+South Dakota;2007;6;2.74863
+South Dakota;2007;7;0.91434
+South Dakota;2007;8;3.21444
+South Dakota;2007;9;1.28118
+South Dakota;2007;10;2.26682
+South Dakota;2007;11;0.04646
+South Dakota;2007;12;0.49184
+South Dakota;2008;1;0.13173
+South Dakota;2008;2;0.34759
+South Dakota;2008;3;0.81501
+South Dakota;2008;4;1.37635
+South Dakota;2008;5;3.22213
+South Dakota;2008;6;4.15670
+South Dakota;2008;7;2.57451
+South Dakota;2008;8;1.53770
+South Dakota;2008;9;1.83082
+South Dakota;2008;10;2.24427
+South Dakota;2008;11;0.82266
+South Dakota;2008;12;0.54536
+Tennessee;2003;1;1.41024
+Tennessee;2003;2;7.90075
+Tennessee;2003;3;1.93044
+Tennessee;2003;4;4.19310
+Tennessee;2003;5;7.70031
+Tennessee;2003;6;4.13116
+Tennessee;2003;7;4.69815
+Tennessee;2003;8;3.46363
+Tennessee;2003;9;4.42613
+Tennessee;2003;10;1.47477
+Tennessee;2003;11;4.51953
+Tennessee;2003;12;2.79003
+Tennessee;2004;1;2.47960
+Tennessee;2004;2;3.98984
+Tennessee;2004;3;3.73193
+Tennessee;2004;4;4.08391
+Tennessee;2004;5;4.31448
+Tennessee;2004;6;4.78407
+Tennessee;2004;7;3.85770
+Tennessee;2004;8;3.15626
+Tennessee;2004;9;3.38957
+Tennessee;2004;10;4.19120
+Tennessee;2004;11;6.01394
+Tennessee;2004;12;4.37475
+Tennessee;2005;1;3.26654
+Tennessee;2005;2;3.63649
+Tennessee;2005;3;2.55344
+Tennessee;2005;4;5.00411
+Tennessee;2005;5;1.30290
+Tennessee;2005;6;3.38188
+Tennessee;2005;7;4.51200
+Tennessee;2005;8;4.31680
+Tennessee;2005;9;1.98558
+Tennessee;2005;10;0.46351
+Tennessee;2005;11;2.93101
+Tennessee;2005;12;2.26579
+Tennessee;2006;1;4.99230
+Tennessee;2006;2;2.40441
+Tennessee;2006;3;2.67424
+Tennessee;2006;4;4.57982
+Tennessee;2006;5;3.44836
+Tennessee;2006;6;2.61091
+Tennessee;2006;7;2.98115
+Tennessee;2006;8;3.37611
+Tennessee;2006;9;3.69368
+Tennessee;2006;10;2.80718
+Tennessee;2006;11;3.12424
+Tennessee;2006;12;2.58325
+Tennessee;2007;1;2.72291
+Tennessee;2007;2;1.56004
+Tennessee;2007;3;1.89718
+Tennessee;2007;4;2.93569
+Tennessee;2007;5;1.49437
+Tennessee;2007;6;2.63297
+Tennessee;2007;7;2.97310
+Tennessee;2007;8;1.10590
+Tennessee;2007;9;2.53444
+Tennessee;2007;10;3.66583
+Tennessee;2007;11;2.80314
+Tennessee;2007;12;2.49409
+Tennessee;2008;1;2.94653
+Tennessee;2008;2;3.10336
+Tennessee;2008;3;4.93136
+Tennessee;2008;4;4.53410
+Tennessee;2008;5;4.08619
+Tennessee;2008;6;2.08206
+Tennessee;2008;7;3.60522
+Tennessee;2008;8;1.44684
+Tennessee;2008;9;1.03885
+Tennessee;2008;10;2.56570
+Tennessee;2008;11;2.18712
+Tennessee;2008;12;6.27947
+Texas;2003;1;0.46578
+Texas;2003;2;2.18276
+Texas;2003;3;0.99082
+Texas;2003;4;0.72597
+Texas;2003;5;1.40453
+Texas;2003;6;3.87969
+Texas;2003;7;2.10279
+Texas;2003;8;2.12077
+Texas;2003;9;3.14786
+Texas;2003;10;2.20819
+Texas;2003;11;1.35212
+Texas;2003;12;0.56246
+Texas;2004;1;1.85913
+Texas;2004;2;2.57221
+Texas;2004;3;1.90429
+Texas;2004;4;3.31040
+Texas;2004;5;1.93122
+Texas;2004;6;5.90836
+Texas;2004;7;2.10616
+Texas;2004;8;2.82435
+Texas;2004;9;2.20159
+Texas;2004;10;3.39807
+Texas;2004;11;5.38731
+Texas;2004;12;0.68663
+Texas;2005;1;1.54307
+Texas;2005;2;2.18586
+Texas;2005;3;1.56245
+Texas;2005;4;0.59546
+Texas;2005;5;2.49182
+Texas;2005;6;1.06925
+Texas;2005;7;2.51954
+Texas;2005;8;2.96185
+Texas;2005;9;1.31642
+Texas;2005;10;1.92138
+Texas;2005;11;0.41890
+Texas;2005;12;0.37700
+Texas;2006;1;0.90430
+Texas;2006;2;1.10892
+Texas;2006;3;1.77488
+Texas;2006;4;1.34455
+Texas;2006;5;1.96804
+Texas;2006;6;1.67250
+Texas;2006;7;1.85690
+Texas;2006;8;2.10310
+Texas;2006;9;2.64055
+Texas;2006;10;3.29715
+Texas;2006;11;0.70221
+Texas;2006;12;1.95260
+Texas;2007;1;2.77037
+Texas;2007;2;0.40459
+Texas;2007;3;3.66053
+Texas;2007;4;1.80105
+Texas;2007;5;4.55646
+Texas;2007;6;4.62252
+Texas;2007;7;4.38902
+Texas;2007;8;2.52851
+Texas;2007;9;2.30102
+Texas;2007;10;1.01369
+Texas;2007;11;1.06643
+Texas;2007;12;0.93504
+Texas;2008;1;0.73479
+Texas;2008;2;0.94198
+Texas;2008;3;2.00319
+Texas;2008;4;1.61366
+Texas;2008;5;1.99221
+Texas;2008;6;1.83095
+Texas;2008;7;2.38122
+Texas;2008;8;4.27693
+Texas;2008;9;2.62057
+Texas;2008;10;2.13307
+Texas;2008;11;0.95714
+Texas;2008;12;0.61849
+Utah;2003;1;0.29981
+Utah;2003;2;1.33770
+Utah;2003;3;1.14318
+Utah;2003;4;0.77138
+Utah;2003;5;0.91268
+Utah;2003;6;0.46418
+Utah;2003;7;0.40318
+Utah;2003;8;1.00850
+Utah;2003;9;0.56522
+Utah;2003;10;0.33928
+Utah;2003;11;1.16841
+Utah;2003;12;1.37183
+Utah;2004;1;0.48893
+Utah;2004;2;1.59112
+Utah;2004;3;0.26528
+Utah;2004;4;1.51055
+Utah;2004;5;0.51798
+Utah;2004;6;0.59034
+Utah;2004;7;0.65036
+Utah;2004;8;0.64498
+Utah;2004;9;1.02253
+Utah;2004;10;2.60170
+Utah;2004;11;1.47843
+Utah;2004;12;1.02837
+Utah;2005;1;2.16287
+Utah;2005;2;1.43930
+Utah;2005;3;1.30957
+Utah;2005;4;1.44720
+Utah;2005;5;1.42979
+Utah;2005;6;1.23883
+Utah;2005;7;0.31899
+Utah;2005;8;1.09990
+Utah;2005;9;0.83761
+Utah;2005;10;1.07343
+Utah;2005;11;0.49152
+Utah;2005;12;0.89257
+Utah;2006;1;1.04170
+Utah;2006;2;0.46607
+Utah;2006;3;1.79279
+Utah;2006;4;0.96738
+Utah;2006;5;0.37201
+Utah;2006;6;0.44124
+Utah;2006;7;1.08239
+Utah;2006;8;0.81178
+Utah;2006;9;1.25090
+Utah;2006;10;2.42025
+Utah;2006;11;0.54369
+Utah;2006;12;0.61110
+Utah;2007;1;0.50456
+Utah;2007;2;0.82943
+Utah;2007;3;0.66197
+Utah;2007;4;0.78311
+Utah;2007;5;0.54928
+Utah;2007;6;0.44665
+Utah;2007;7;0.99994
+Utah;2007;8;1.09757
+Utah;2007;9;1.14339
+Utah;2007;10;0.68918
+Utah;2007;11;0.08221
+Utah;2007;12;2.39438
+Utah;2008;1;1.30416
+Utah;2008;2;1.30498
+Utah;2008;3;0.49940
+Utah;2008;4;0.33564
+Utah;2008;5;0.88188
+Utah;2008;6;0.56631
+Utah;2008;7;0.49561
+Utah;2008;8;0.82639
+Utah;2008;9;0.46930
+Utah;2008;10;0.64582
+Utah;2008;11;0.82037
+Utah;2008;12;1.27484
+Vermont;2003;1;1.49016
+Vermont;2003;2;1.71435
+Vermont;2003;3;2.21119
+Vermont;2003;4;2.36056
+Vermont;2003;5;3.70219
+Vermont;2003;6;2.60614
+Vermont;2003;7;3.75907
+Vermont;2003;8;4.57541
+Vermont;2003;9;4.25493
+Vermont;2003;10;5.55947
+Vermont;2003;11;3.97540
+Vermont;2003;12;5.17421
+Vermont;2004;1;0.85285
+Vermont;2004;2;1.11430
+Vermont;2004;3;1.71733
+Vermont;2004;4;2.63974
+Vermont;2004;5;4.58256
+Vermont;2004;6;2.82506
+Vermont;2004;7;4.76227
+Vermont;2004;8;5.94496
+Vermont;2004;9;2.87960
+Vermont;2004;10;1.24658
+Vermont;2004;11;2.92168
+Vermont;2004;12;3.65970
+Vermont;2005;1;2.33220
+Vermont;2005;2;2.11981
+Vermont;2005;3;2.29377
+Vermont;2005;4;4.31733
+Vermont;2005;5;2.12535
+Vermont;2005;6;4.27759
+Vermont;2005;7;3.65092
+Vermont;2005;8;4.15313
+Vermont;2005;9;2.42853
+Vermont;2005;10;8.25114
+Vermont;2005;11;4.68431
+Vermont;2005;12;2.72125
+Vermont;2006;1;3.79883
+Vermont;2006;2;1.82910
+Vermont;2006;3;1.26280
+Vermont;2006;4;2.72731
+Vermont;2006;5;5.51792
+Vermont;2006;6;7.15648
+Vermont;2006;7;4.22870
+Vermont;2006;8;3.53390
+Vermont;2006;9;2.54356
+Vermont;2006;10;5.80911
+Vermont;2006;11;2.43953
+Vermont;2006;12;3.17144
+Vermont;2007;1;2.74427
+Vermont;2007;2;2.34641
+Vermont;2007;3;2.91604
+Vermont;2007;4;4.18940
+Vermont;2007;5;2.48546
+Vermont;2007;6;2.83122
+Vermont;2007;7;4.54941
+Vermont;2007;8;2.41819
+Vermont;2007;9;2.80753
+Vermont;2007;10;4.48868
+Vermont;2007;11;3.59770
+Vermont;2007;12;2.89796
+Vermont;2008;1;1.85918
+Vermont;2008;2;5.48139
+Vermont;2008;3;4.15063
+Vermont;2008;4;2.78128
+Vermont;2008;5;1.53840
+Vermont;2008;6;4.92137
+Vermont;2008;7;6.86134
+Vermont;2008;8;4.60902
+Vermont;2008;9;2.52942
+Vermont;2008;10;4.20720
+Vermont;2008;11;2.71015
+Vermont;2008;12;4.90330
+Virginia;2003;1;1.82000
+Virginia;2003;2;5.56091
+Virginia;2003;3;3.59723
+Virginia;2003;4;4.32953
+Virginia;2003;5;5.99112
+Virginia;2003;6;5.33048
+Virginia;2003;7;5.06601
+Virginia;2003;8;4.68021
+Virginia;2003;9;7.01492
+Virginia;2003;10;2.17882
+Virginia;2003;11;3.75846
+Virginia;2003;12;3.49907
+Virginia;2004;1;1.56766
+Virginia;2004;2;2.09689
+Virginia;2004;3;1.86962
+Virginia;2004;4;3.48506
+Virginia;2004;5;3.67793
+Virginia;2004;6;4.45039
+Virginia;2004;7;4.51840
+Virginia;2004;8;4.79565
+Virginia;2004;9;6.53227
+Virginia;2004;10;1.78985
+Virginia;2004;11;3.83741
+Virginia;2004;12;2.28791
+Virginia;2005;1;2.56504
+Virginia;2005;2;1.87140
+Virginia;2005;3;2.90050
+Virginia;2005;4;2.79323
+Virginia;2005;5;2.38796
+Virginia;2005;6;2.18626
+Virginia;2005;7;4.90355
+Virginia;2005;8;2.69098
+Virginia;2005;9;0.54956
+Virginia;2005;10;4.47883
+Virginia;2005;11;3.15744
+Virginia;2005;12;2.77530
+Virginia;2006;1;2.53007
+Virginia;2006;2;1.46384
+Virginia;2006;3;0.58074
+Virginia;2006;4;2.96778
+Virginia;2006;5;2.08401
+Virginia;2006;6;6.03253
+Virginia;2006;7;3.34825
+Virginia;2006;8;2.84618
+Virginia;2006;9;5.48323
+Virginia;2006;10;5.07926
+Virginia;2006;11;4.52513
+Virginia;2006;12;1.55678
+Virginia;2007;1;2.29333
+Virginia;2007;2;1.87513
+Virginia;2007;3;2.79904
+Virginia;2007;4;3.09287
+Virginia;2007;5;1.92610
+Virginia;2007;6;3.19486
+Virginia;2007;7;2.53999
+Virginia;2007;8;2.73771
+Virginia;2007;9;1.21730
+Virginia;2007;10;3.85199
+Virginia;2007;11;0.83305
+Virginia;2007;12;1.77180
+Virginia;2008;1;1.18225
+Virginia;2008;2;2.47793
+Virginia;2008;3;2.79989
+Virginia;2008;4;4.55007
+Virginia;2008;5;3.37724
+Virginia;2008;6;2.71786
+Virginia;2008;7;3.70427
+Virginia;2008;8;2.71348
+Virginia;2008;9;3.84960
+Virginia;2008;10;1.24909
+Virginia;2008;11;2.78383
+Virginia;2008;12;3.23519
+Washington;2003;1;6.98123
+Washington;2003;2;2.01968
+Washington;2003;3;5.71930
+Washington;2003;4;2.90736
+Washington;2003;5;1.06169
+Washington;2003;6;0.38232
+Washington;2003;7;0.09631
+Washington;2003;8;0.24124
+Washington;2003;9;0.88343
+Washington;2003;10;5.38779
+Washington;2003;11;5.29549
+Washington;2003;12;4.47758
+Washington;2004;1;5.18055
+Washington;2004;2;2.64370
+Washington;2004;3;2.43569
+Washington;2004;4;1.08847
+Washington;2004;5;2.26119
+Washington;2004;6;1.24622
+Washington;2004;7;0.28760
+Washington;2004;8;2.65104
+Washington;2004;9;2.05666
+Washington;2004;10;3.05873
+Washington;2004;11;2.99645
+Washington;2004;12;3.95637
+Washington;2005;1;3.46188
+Washington;2005;2;0.93281
+Washington;2005;3;3.48467
+Washington;2005;4;2.78329
+Washington;2005;5;3.04934
+Washington;2005;6;1.60619
+Washington;2005;7;0.90013
+Washington;2005;8;0.33459
+Washington;2005;9;1.37955
+Washington;2005;10;3.36048
+Washington;2005;11;4.38969
+Washington;2005;12;5.82223
+Washington;2006;1;9.59395
+Washington;2006;2;2.87780
+Washington;2006;3;2.59660
+Washington;2006;4;2.24923
+Washington;2006;5;1.87316
+Washington;2006;6;1.84764
+Washington;2006;7;0.35946
+Washington;2006;8;0.11985
+Washington;2006;9;0.90955
+Washington;2006;10;1.47954
+Washington;2006;11;11.24976
+Washington;2006;12;5.42262
+Washington;2007;1;3.73449
+Washington;2007;2;3.84459
+Washington;2007;3;4.01549
+Washington;2007;4;1.68256
+Washington;2007;5;1.19112
+Washington;2007;6;1.43409
+Washington;2007;7;0.88131
+Washington;2007;8;0.51466
+Washington;2007;9;1.28761
+Washington;2007;10;3.13196
+Washington;2007;11;2.80586
+Washington;2007;12;4.17445
+Washington;2008;1;4.49980
+Washington;2008;2;2.91731
+Washington;2008;3;2.88534
+Washington;2008;4;1.52146
+Washington;2008;5;1.19582
+Washington;2008;6;1.47422
+Washington;2008;7;0.39104
+Washington;2008;8;1.44530
+Washington;2008;9;0.47734
+Washington;2008;10;1.92505
+Washington;2008;11;4.75839
+Washington;2008;12;4.44363
+West Virginia;2003;1;1.95203
+West Virginia;2003;2;5.46329
+West Virginia;2003;3;1.69018
+West Virginia;2003;4;3.51195
+West Virginia;2003;5;6.01604
+West Virginia;2003;6;4.98200
+West Virginia;2003;7;5.22867
+West Virginia;2003;8;4.53502
+West Virginia;2003;9;5.41690
+West Virginia;2003;10;2.30669
+West Virginia;2003;11;5.74253
+West Virginia;2003;12;2.71865
+West Virginia;2004;1;2.83290
+West Virginia;2004;2;2.51093
+West Virginia;2004;3;3.44669
+West Virginia;2004;4;4.24131
+West Virginia;2004;5;5.56327
+West Virginia;2004;6;3.68559
+West Virginia;2004;7;4.08631
+West Virginia;2004;8;2.85334
+West Virginia;2004;9;6.21993
+West Virginia;2004;10;2.71807
+West Virginia;2004;11;3.60804
+West Virginia;2004;12;2.31847
+West Virginia;2005;1;3.44371
+West Virginia;2005;2;2.59368
+West Virginia;2005;3;3.29137
+West Virginia;2005;4;3.61233
+West Virginia;2005;5;2.65355
+West Virginia;2005;6;2.23255
+West Virginia;2005;7;4.61023
+West Virginia;2005;8;3.83736
+West Virginia;2005;9;0.68199
+West Virginia;2005;10;3.18719
+West Virginia;2005;11;3.33635
+West Virginia;2005;12;2.17080
+West Virginia;2006;1;3.32495
+West Virginia;2006;2;1.36263
+West Virginia;2006;3;1.72962
+West Virginia;2006;4;4.02533
+West Virginia;2006;5;2.37865
+West Virginia;2006;6;5.14579
+West Virginia;2006;7;3.85892
+West Virginia;2006;8;2.93940
+West Virginia;2006;9;4.30263
+West Virginia;2006;10;3.95789
+West Virginia;2006;11;1.85014
+West Virginia;2006;12;1.13237
+West Virginia;2007;1;2.04574
+West Virginia;2007;2;1.88943
+West Virginia;2007;3;3.20172
+West Virginia;2007;4;3.74758
+West Virginia;2007;5;1.77409
+West Virginia;2007;6;2.96622
+West Virginia;2007;7;4.47406
+West Virginia;2007;8;2.93516
+West Virginia;2007;9;2.02700
+West Virginia;2007;10;2.98606
+West Virginia;2007;11;2.54064
+West Virginia;2007;12;3.54354
+West Virginia;2008;1;2.51004
+West Virginia;2008;2;3.57116
+West Virginia;2008;3;3.54718
+West Virginia;2008;4;3.51666
+West Virginia;2008;5;4.57805
+West Virginia;2008;6;4.92590
+West Virginia;2008;7;4.34666
+West Virginia;2008;8;2.51484
+West Virginia;2008;9;1.65392
+West Virginia;2008;10;1.27607
+West Virginia;2008;11;2.68823
+West Virginia;2008;12;4.47077
+Wisconsin;2003;1;0.33406
+Wisconsin;2003;2;0.61430
+Wisconsin;2003;3;1.59719
+Wisconsin;2003;4;2.69132
+Wisconsin;2003;5;3.89546
+Wisconsin;2003;6;2.98796
+Wisconsin;2003;7;3.12434
+Wisconsin;2003;8;1.49874
+Wisconsin;2003;9;2.73895
+Wisconsin;2003;10;1.16149
+Wisconsin;2003;11;2.72947
+Wisconsin;2003;12;1.13102
+Wisconsin;2004;1;0.70624
+Wisconsin;2004;2;1.52344
+Wisconsin;2004;3;2.71965
+Wisconsin;2004;4;1.85248
+Wisconsin;2004;5;6.49274
+Wisconsin;2004;6;3.87690
+Wisconsin;2004;7;2.88939
+Wisconsin;2004;8;2.60335
+Wisconsin;2004;9;1.90044
+Wisconsin;2004;10;3.05464
+Wisconsin;2004;11;1.41114
+Wisconsin;2004;12;1.26407
+Wisconsin;2005;1;1.42882
+Wisconsin;2005;2;1.25640
+Wisconsin;2005;3;1.07416
+Wisconsin;2005;4;1.41061
+Wisconsin;2005;5;2.20770
+Wisconsin;2005;6;3.37519
+Wisconsin;2005;7;2.76386
+Wisconsin;2005;8;2.36680
+Wisconsin;2005;9;3.37822
+Wisconsin;2005;10;2.44430
+Wisconsin;2005;11;2.52421
+Wisconsin;2005;12;0.87345
+Wisconsin;2006;1;1.17659
+Wisconsin;2006;2;0.74586
+Wisconsin;2006;3;1.95714
+Wisconsin;2006;4;2.45312
+Wisconsin;2006;5;3.35740
+Wisconsin;2006;6;1.98036
+Wisconsin;2006;7;3.10957
+Wisconsin;2006;8;3.66975
+Wisconsin;2006;9;2.86553
+Wisconsin;2006;10;1.90324
+Wisconsin;2006;11;1.49660
+Wisconsin;2006;12;1.84351
+Wisconsin;2007;1;0.66799
+Wisconsin;2007;2;1.10381
+Wisconsin;2007;3;2.34257
+Wisconsin;2007;4;1.84333
+Wisconsin;2007;5;2.01878
+Wisconsin;2007;6;2.52852
+Wisconsin;2007;7;2.58197
+Wisconsin;2007;8;5.85011
+Wisconsin;2007;9;3.33058
+Wisconsin;2007;10;3.58555
+Wisconsin;2007;11;0.22290
+Wisconsin;2007;12;1.92511
+Wisconsin;2008;1;1.11318
+Wisconsin;2008;2;1.38454
+Wisconsin;2008;3;1.42893
+Wisconsin;2008;4;3.92456
+Wisconsin;2008;5;2.56782
+Wisconsin;2008;6;5.53067
+Wisconsin;2008;7;3.17448
+Wisconsin;2008;8;1.38611
+Wisconsin;2008;9;2.24030
+Wisconsin;2008;10;1.65220
+Wisconsin;2008;11;0.92759
+Wisconsin;2008;12;2.02391
+Wyoming;2003;1;0.85425
+Wyoming;2003;2;1.11937
+Wyoming;2003;3;1.76838
+Wyoming;2003;4;1.47034
+Wyoming;2003;5;1.46006
+Wyoming;2003;6;2.12968
+Wyoming;2003;7;0.54350
+Wyoming;2003;8;1.03434
+Wyoming;2003;9;1.20264
+Wyoming;2003;10;0.69279
+Wyoming;2003;11;1.11942
+Wyoming;2003;12;1.07283
+Wyoming;2004;1;0.57731
+Wyoming;2004;2;1.05189
+Wyoming;2004;3;0.45626
+Wyoming;2004;4;1.46040
+Wyoming;2004;5;1.36540
+Wyoming;2004;6;1.75638
+Wyoming;2004;7;1.54986
+Wyoming;2004;8;1.10837
+Wyoming;2004;9;1.84894
+Wyoming;2004;10;1.55790
+Wyoming;2004;11;0.71891
+Wyoming;2004;12;0.70371
+Wyoming;2005;1;0.90283
+Wyoming;2005;2;0.56910
+Wyoming;2005;3;0.90843
+Wyoming;2005;4;1.52031
+Wyoming;2005;5;2.62566
+Wyoming;2005;6;1.89838
+Wyoming;2005;7;0.88056
+Wyoming;2005;8;1.25523
+Wyoming;2005;9;0.83734
+Wyoming;2005;10;1.34951
+Wyoming;2005;11;1.17014
+Wyoming;2005;12;1.08349
+Wyoming;2006;1;0.93137
+Wyoming;2006;2;0.76065
+Wyoming;2006;3;0.96035
+Wyoming;2006;4;1.07709
+Wyoming;2006;5;1.21451
+Wyoming;2006;6;0.66219
+Wyoming;2006;7;0.95564
+Wyoming;2006;8;1.10783
+Wyoming;2006;9;1.53458
+Wyoming;2006;10;1.17918
+Wyoming;2006;11;0.86576
+Wyoming;2006;12;0.82274
+Wyoming;2007;1;0.65712
+Wyoming;2007;2;0.91431
+Wyoming;2007;3;1.17953
+Wyoming;2007;4;1.14143
+Wyoming;2007;5;1.98689
+Wyoming;2007;6;0.99817
+Wyoming;2007;7;1.34049
+Wyoming;2007;8;1.34328
+Wyoming;2007;9;1.05147
+Wyoming;2007;10;1.57634
+Wyoming;2007;11;0.55178
+Wyoming;2007;12;1.12112
+Wyoming;2008;1;0.95881
+Wyoming;2008;2;0.78549
+Wyoming;2008;3;1.05160
+Wyoming;2008;4;0.89585
+Wyoming;2008;5;3.42076
+Wyoming;2008;6;1.41160
+Wyoming;2008;7;0.65108
+Wyoming;2008;8;0.90909
+Wyoming;2008;9;1.24373
+Wyoming;2008;10;0.98131
+Wyoming;2008;11;0.82797
+Wyoming;2008;12;0.95188
